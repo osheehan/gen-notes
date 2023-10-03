@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'CGA.blg'
+[35] biber:340> INFO - === Tue Oct  3, 2023, 12:38:45
+[43] Biber.pm:419> INFO - Reading 'CGA.bcf'
+[92] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[99] bbl.pm:660> INFO - Writing 'CGA.bbl' with encoding 'UTF-8'
+[99] bbl.pm:763> INFO - Output to CGA.bbl
+[99] Biber.pm:131> WARN - The file 'CGA.bcf' does not contain any citations!
+[99] Biber.pm:133> INFO - WARNINGS: 1
