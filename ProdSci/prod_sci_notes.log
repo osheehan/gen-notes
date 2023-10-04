@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  28 SEP 2023 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  4 OCT 2023 14:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/Owen/Documents/VSC/Gen notes/ProdSci/prod_sci_notes.tex"
-(/Users/Owen/Documents/VSC/Gen notes/ProdSci/prod_sci_notes.tex
+**/Users/Owen/Documents/VSC/gen-notes/ProdSci/prod_sci_notes.tex
+(/Users/Owen/Documents/VSC/gen-notes/ProdSci/prod_sci_notes.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -206,21 +206,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./prod_sci_notes.aux)
 Package rerunfilecheck Info: File `prod_sci_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 76A5F1A1A711FFF1D8C873A77C648535;214.
+(rerunfilecheck)             Checksum: A422DE3426AA4F2212DD77481FE7DC50;219.
  ) 
 Here is how much of TeX's memory you used:
- 7492 strings out of 476025
- 119928 string characters out of 5790017
+ 7494 strings out of 476025
+ 119947 string characters out of 5790017
  1852388 words of memory out of 5000000
- 27888 multiletter control sequences out of 15000+600000
- 517230 words of font info for 48 fonts, out of 8000000 for 9000
+ 27889 multiletter control sequences out of 15000+600000
+ 517577 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,307b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on prod_sci_notes.pdf (2 pages, 40738 bytes).
+ 75i,11n,76p,305b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on prod_sci_notes.pdf (2 pages, 54032 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 

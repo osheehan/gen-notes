@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1696436126 "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" "arept_notes.pdf" "arept_notes" 1696436127 0
-  "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" 1696436126 449 b03d9d6d6b35a88c6a6bbd763f1ef4ff ""
+["pdflatex"] 1696436864 "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" "arept_notes.pdf" "arept_notes" 1696436865 0
+  "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" 1696436864 457 eff2e6aa837aaa129c6f3a011a97a28e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -55,10 +55,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695923447 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695923408 7883453 7705c8d5ef118415256756fd9593a0c5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "arept_notes.aux" 1696436127 788 9e65255f5568a04f3781387eacc1f3e0 "pdflatex"
-  "arept_notes.out" 1696436127 262 ea608ae76a4094d14414f838e4563591 "pdflatex"
-  "arept_notes.tex" 1696436126 449 b03d9d6d6b35a88c6a6bbd763f1ef4ff ""
-  "arept_notes.toc" 1696436127 152 700460f208645c36df5c96f51308cd57 "pdflatex"
+  "arept_notes.aux" 1696436865 788 9e65255f5568a04f3781387eacc1f3e0 "pdflatex"
+  "arept_notes.out" 1696436865 262 ea608ae76a4094d14414f838e4563591 "pdflatex"
+  "arept_notes.tex" 1696436864 457 eff2e6aa837aaa129c6f3a011a97a28e ""
+  "arept_notes.toc" 1696436865 152 700460f208645c36df5c96f51308cd57 "pdflatex"
   (generated)
   "arept_notes.aux"
   "arept_notes.log"
