@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}week of Oct 2}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Wednesday 10/4/23}{2}{subsection.1.1}%
