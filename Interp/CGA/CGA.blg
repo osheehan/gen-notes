@@ -1,9 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'CGA.blg'
-[35] biber:340> INFO - === Tue Oct  3, 2023, 12:38:45
-[43] Biber.pm:419> INFO - Reading 'CGA.bcf'
-[92] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[99] bbl.pm:660> INFO - Writing 'CGA.bbl' with encoding 'UTF-8'
-[99] bbl.pm:763> INFO - Output to CGA.bbl
-[99] Biber.pm:131> WARN - The file 'CGA.bcf' does not contain any citations!
-[99] Biber.pm:133> INFO - WARNINGS: 1
+[37] biber:340> INFO - === Wed Oct  4, 2023, 21:27:32
+[45] Biber.pm:419> INFO - Reading 'CGA.bcf'
+[94] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
+[101] Biber.pm:4419> INFO - Processing section 0
+[106] Biber.pm:4610> INFO - Looking for bibtex file 'cga.bib' for section 0
+[107] bibtex.pm:1713> INFO - LaTeX decoding ...
+[110] bibtex.pm:1519> INFO - Found BibTeX data source 'cga.bib'
+[135] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[135] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[135] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[135] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[138] bbl.pm:660> INFO - Writing 'CGA.bbl' with encoding 'UTF-8'
+[139] bbl.pm:763> INFO - Output to CGA.bbl
+[139] Biber.pm:131> WARN - article entry 'facebook' (cga.bib): Invalid format 'April 6, 2016' of date field 'date' - ignoring
+[139] Biber.pm:133> INFO - WARNINGS: 1

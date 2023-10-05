@@ -16,5 +16,116 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{face_friends}{article}{skipbib=true}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=832f7c68d237277a5137454f582f3a20}{%
+           family={{B}ryant},
+           familyi={B\bibinitperiod},
+           given={{E}rin\bibnamedelima {M}.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afc8626cb185d55cc2c773ab3ae4fafc}{%
+           family={{M}armo},
+           familyi={M\bibinitperiod},
+           given={{J}ennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5ca349e12378ab80319da31d20a6f900}
+      \strng{fullhash}{5ca349e12378ab80319da31d20a6f900}
+      \strng{bibnamehash}{5ca349e12378ab80319da31d20a6f900}
+      \strng{authorbibnamehash}{5ca349e12378ab80319da31d20a6f900}
+      \strng{authornamehash}{5ca349e12378ab80319da31d20a6f900}
+      \strng{authorfullhash}{5ca349e12378ab80319da31d20a6f900}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{J}ournal of {S}ocial and {P}ersonal {R}elationships}
+      \field{month}{12}
+      \field{number}{8}
+      \field{title}{{T}he rules of {F}acebook friendship, {A} two-stage examination of interaction rules in close, casual, and acquaintance friendships}
+      \field{volume}{29}
+      \field{year}{2012}
+      \field{pages}{1013\bibrangedash 1035}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1177/0265407512443616
+      \endverb
+    \endentry
+    \entry{facebook}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0d35aa68e122bd3cb3eb6b47a252927}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0d35aa68e122bd3cb3eb6b47a252927}
+      \strng{fullhash}{d0d35aa68e122bd3cb3eb6b47a252927}
+      \strng{bibnamehash}{d0d35aa68e122bd3cb3eb6b47a252927}
+      \strng{authorbibnamehash}{d0d35aa68e122bd3cb3eb6b47a252927}
+      \strng{authornamehash}{d0d35aa68e122bd3cb3eb6b47a252927}
+      \strng{authorfullhash}{d0d35aa68e122bd3cb3eb6b47a252927}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sapiens}
+      \field{title}{How Real Are You on Facebook?}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb www.sapiens.org/culture/social-media-and-identity/
+      \endverb
+      \verb{url}
+      \verb www.sapiens.org/culture/social-media-and-identity/
+      \endverb
+      \warn{\item article entry 'facebook' (cga.bib): Invalid format 'April 6, 2016' of date field 'date' - ignoring}
+    \endentry
+    \entry{tweet}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2fe086152678b3a7aeac13bce8a7bab8}{%
+           family={{M}arwick},
+           familyi={M\bibinitperiod},
+           given={{A}lice},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5e69c1dafc69b79775c0244e7bf67aa}{%
+           family={{b}oyd},
+           familyi={b\bibinitperiod},
+           given={{d}anah},
+           giveni={d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d9d5318a0e032657e8fd9bdaaa412b9}
+      \strng{fullhash}{3d9d5318a0e032657e8fd9bdaaa412b9}
+      \strng{bibnamehash}{3d9d5318a0e032657e8fd9bdaaa412b9}
+      \strng{authorbibnamehash}{3d9d5318a0e032657e8fd9bdaaa412b9}
+      \strng{authornamehash}{3d9d5318a0e032657e8fd9bdaaa412b9}
+      \strng{authorfullhash}{3d9d5318a0e032657e8fd9bdaaa412b9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{n}ew {m}edia \& {s}ociety}
+      \field{number}{1}
+      \field{title}{I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience}
+      \field{volume}{13}
+      \field{year}{2010}
+      \field{pages}{114\bibrangedash 133}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1461444810365313
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
