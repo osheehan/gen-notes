@@ -1,8 +1,8 @@
-PWD /Users/Owen/Documents/VSC/Gen notes/Interp/Notes
+PWD /Users/Owen/Documents/VSC/gen-notes/Interp/Notes
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Owen/Documents/VSC/Gen notes/Interp/Notes/interp_notes.tex
+INPUT /Users/Owen/Documents/VSC/gen-notes/Interp/Notes/interp_notes.tex
 OUTPUT interp_notes.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
