@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber CGA"] 1696710752 "CGA.bcf" "CGA.bbl" "CGA" 1696711230 0
+["biber CGA"] 1696710752 "CGA.bcf" "CGA.bbl" "CGA" 1696711430 0
   "./cga.bib" 1696709073 1179 d7134e3ee89230a73eb64555993b464b ""
-  "CGA.bcf" 1696711230 125391 e75b8756c2b0f874b363c86bdd2c84c0 "pdflatex"
+  "CGA.bcf" 1696711430 125391 e75b8756c2b0f874b363c86bdd2c84c0 "pdflatex"
   (generated)
   "CGA.bbl"
   "CGA.blg"
   (rewritten before read)
-["pdflatex"] 1696711229 "/Users/Owen/Documents/VSC/gen-notes/Interp/CGA/CGA.tex" "CGA.pdf" "CGA" 1696711230 0
-  "/Users/Owen/Documents/VSC/gen-notes/Interp/CGA/CGA.tex" 1696711229 7198 c2220eac6278b4e162605563d3cb9977 ""
+["pdflatex"] 1696711429 "/Users/Owen/Documents/VSC/gen-notes/Interp/CGA/CGA.tex" "CGA.pdf" "CGA" 1696711430 0
+  "/Users/Owen/Documents/VSC/gen-notes/Interp/CGA/CGA.tex" 1696711429 7201 83af821105f299be4e75bf3d86af79d9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -99,11 +99,11 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695923447 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695923408 7883453 7705c8d5ef118415256756fd9593a0c5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "CGA.aux" 1696711230 1075 a26931a70f73fa0596caf1695f359992 "pdflatex"
+  "CGA.aux" 1696711430 1075 a26931a70f73fa0596caf1695f359992 "pdflatex"
   "CGA.bbl" 1696710752 4943 632b27dfc0a1dcd380915c2766bb0d9b "biber CGA"
-  "CGA.out" 1696711229 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CGA.run.xml" 1696711230 2416 554e91c10576303caa77c78cdcc85a8f "pdflatex"
-  "CGA.tex" 1696711229 7198 c2220eac6278b4e162605563d3cb9977 ""
+  "CGA.out" 1696711430 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CGA.run.xml" 1696711430 2416 554e91c10576303caa77c78cdcc85a8f "pdflatex"
+  "CGA.tex" 1696711429 7201 83af821105f299be4e75bf3d86af79d9 ""
   "cga.bib" 1696709073 1179 d7134e3ee89230a73eb64555993b464b ""
   (generated)
   "CGA.aux"
