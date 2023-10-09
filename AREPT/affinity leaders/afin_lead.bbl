@@ -1,0 +1,82 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{blackpast}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a811bf051f1e4c4e5893d335f7e361b}{%
+           family={{G}ranshaw},
+           familyi={G\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a811bf051f1e4c4e5893d335f7e361b}
+      \strng{fullhash}{7a811bf051f1e4c4e5893d335f7e361b}
+      \strng{bibnamehash}{7a811bf051f1e4c4e5893d335f7e361b}
+      \strng{authorbibnamehash}{7a811bf051f1e4c4e5893d335f7e361b}
+      \strng{authornamehash}{7a811bf051f1e4c4e5893d335f7e361b}
+      \strng{authorfullhash}{7a811bf051f1e4c4e5893d335f7e361b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{B}lack{P}ast}
+      \field{title}{{A}lice {C}hildress (1916-1994)}
+      \verb{urlraw}
+      \verb www.blackpast.org/african-american-history/childress-alice-1916-1994/
+      \endverb
+      \verb{url}
+      \verb www.blackpast.org/african-american-history/childress-alice-1916-1994/
+      \endverb
+      \warn{\item article entry 'blackpast' (afin_lead.bib): Invalid format '11/14/2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{round}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9e3db7e480d57fcac025dd16e883d63}{%
+           family={{Roundabout Theatre Company}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9e3db7e480d57fcac025dd16e883d63}
+      \strng{fullhash}{f9e3db7e480d57fcac025dd16e883d63}
+      \strng{bibnamehash}{f9e3db7e480d57fcac025dd16e883d63}
+      \strng{authorbibnamehash}{f9e3db7e480d57fcac025dd16e883d63}
+      \strng{authornamehash}{f9e3db7e480d57fcac025dd16e883d63}
+      \strng{authorfullhash}{f9e3db7e480d57fcac025dd16e883d63}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Trouble In Mind}
+      \field{title}{{T}he {L}ife {A}nd {W}orks of {A}lice {C}hildress}
+      \verb{urlraw}
+      \verb www.roundabouttheatre.org/get-tickets/upstage-guides-current/upstage-guide-trouble-in-mind/life-work-alice-childress-trouble-in-mind/
+      \endverb
+      \verb{url}
+      \verb www.roundabouttheatre.org/get-tickets/upstage-guides-current/upstage-guide-trouble-in-mind/life-work-alice-childress-trouble-in-mind/
+      \endverb
+      \warn{\item article entry 'round' (afin_lead.bib): Invalid format 'n\d' of date field 'date' - ignoring}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

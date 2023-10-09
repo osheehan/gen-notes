@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'afin_lead.blg'
+[40] biber:340> INFO - === Sun Oct  8, 2023, 18:10:14
+[49] Biber.pm:419> INFO - Reading 'afin_lead.bcf'
+[104] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[113] Biber.pm:4419> INFO - Processing section 0
+[118] Biber.pm:4610> INFO - Looking for bibtex file 'afin_lead.bib' for section 0
+[121] bibtex.pm:1713> INFO - LaTeX decoding ...
+[124] bibtex.pm:1519> INFO - Found BibTeX data source 'afin_lead.bib'
+[135] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[135] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[135] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[135] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[138] bbl.pm:660> INFO - Writing 'afin_lead.bbl' with encoding 'UTF-8'
+[138] bbl.pm:763> INFO - Output to afin_lead.bbl
+[138] Biber.pm:131> WARN - article entry 'blackpast' (afin_lead.bib): Invalid format '11/14/2009' of date field 'date' - ignoring
+[138] Biber.pm:131> WARN - article entry 'round' (afin_lead.bib): Invalid format 'n\d' of date field 'date' - ignoring
+[138] Biber.pm:133> INFO - WARNINGS: 2

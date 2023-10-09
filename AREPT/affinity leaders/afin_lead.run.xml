@@ -83,7 +83,7 @@
       <file>afin_lead.bcf</file>
     </requires>
     <requires type="editable">
-      <file>afin_tex.bib</file>
+      <file>afin_lead.bib</file>
     </requires>
   </external>
 </requests>
