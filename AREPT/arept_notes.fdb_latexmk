@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1696436864 "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" "arept_notes.pdf" "arept_notes" 1696436865 0
-  "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" 1696436864 457 eff2e6aa837aaa129c6f3a011a97a28e ""
+["pdflatex"] 1696867905 "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" "arept_notes.pdf" "arept_notes" 1696867906 0
+  "/Users/Owen/Documents/VSC/gen-notes/AREPT/arept_notes.tex" 1696867905 668 513294578e2598a22b49f3c377754fca ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -17,6 +19,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb" 1248133631 34586 5a65dc15601f9c74fe3fb3f37b3b8b6f ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -55,10 +58,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695923447 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695923408 7883453 7705c8d5ef118415256756fd9593a0c5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "arept_notes.aux" 1696436865 788 9e65255f5568a04f3781387eacc1f3e0 "pdflatex"
-  "arept_notes.out" 1696436865 262 ea608ae76a4094d14414f838e4563591 "pdflatex"
-  "arept_notes.tex" 1696436864 457 eff2e6aa837aaa129c6f3a011a97a28e ""
-  "arept_notes.toc" 1696436865 152 700460f208645c36df5c96f51308cd57 "pdflatex"
+  "arept_notes.aux" 1696867906 928 ad7539e744606be7bedffe7ce9cc832c "pdflatex"
+  "arept_notes.out" 1696867906 450 fe1d6156903cd6806af033830a6e75c2 "pdflatex"
+  "arept_notes.tex" 1696867905 668 513294578e2598a22b49f3c377754fca ""
+  "arept_notes.toc" 1696867906 251 574caed48d1e046d0f5693927a86cfc9 "pdflatex"
   (generated)
   "arept_notes.aux"
   "arept_notes.log"
