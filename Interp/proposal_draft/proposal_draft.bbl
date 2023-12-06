@@ -1,0 +1,57 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Fabulous_lives}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={{M}arwick},
+           familyi={M\bibinitperiod},
+           given={{A}lice\bibnamedelima {E.}},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale UP}%
+      }
+      \strng{namehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{fullhash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{bibnamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authorbibnamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authornamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authorfullhash}{a5b24b5c9890ba3095958df938b79bc6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\ \\ \hspace*{.5in} The article is a good first look into how microcelebrities operate online, and is a good first reading when looking into the subject. This article also introduces many topics and language used in other articles, especially future articles by Marwick.}
+      \field{booktitle}{Status Update: Celebrity, Publicity, and Branding in the Social Media Age}
+      \field{title}{Fabulous Life of Micro-Celebrities}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

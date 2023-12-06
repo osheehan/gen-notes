@@ -1,0 +1,166 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Goffman}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f4195a736f48ac9a8ae7634814ab6ed}{%
+           family={{G}offman},
+           familyi={G\bibinitperiod},
+           given={{E}rving},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{B}antam {D}oubleday {D}ell {P}ublishing {G}roup}%
+      }
+      \strng{namehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{fullhash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{bibnamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorbibnamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authornamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorfullhash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{T}he {P}resentation of {S}elf in {E}veryday {L}ife}
+      \field{year}{1959}
+    \endentry
+    \entry{Hogan1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1b56e70ddac558bbf6d3fa665eb1415}{%
+           family={{H}ogan},
+           familyi={H\bibinitperiod},
+           given={{B}ernie},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1b56e70ddac558bbf6d3fa665eb1415}
+      \strng{fullhash}{f1b56e70ddac558bbf6d3fa665eb1415}
+      \strng{bibnamehash}{f1b56e70ddac558bbf6d3fa665eb1415}
+      \strng{authorbibnamehash}{f1b56e70ddac558bbf6d3fa665eb1415}
+      \strng{authornamehash}{f1b56e70ddac558bbf6d3fa665eb1415}
+      \strng{authorfullhash}{f1b56e70ddac558bbf6d3fa665eb1415}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This article introduces Goffman's dramaturgical approach in regards to social media, as well as intruding the concept of the lowest common denominator when it comes to online activity. This is used as a basis to examine the reasons behind filtering of the self online. }}
+      \field{journaltitle}{{B}ulletin of {S}cience, {T}echnology \& {S}ociety}
+      \field{number}{6}
+      \field{title}{{T}he {P}resentation of {S}elf in the {A}ge of {S}ocial {M}edia: {D}istinguishing {P}erformances and {E}xhibitions {O}nline}
+      \field{volume}{30}
+      \field{year}{2010}
+      \field{pages}{377\bibrangedash 386}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0270467610385893
+      \endverb
+    \endentry
+    \entry{MB1}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={{M}arwick},
+           familyi={M\bibinitperiod},
+           given={{A}lice\bibnamedelima {E}.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5e69c1dafc69b79775c0244e7bf67aa}{%
+           family={{b}oyd},
+           familyi={b\bibinitperiod},
+           given={{d}anah},
+           giveni={d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd516c237dc57aa319d6a532dc63bbb6}
+      \strng{fullhash}{dd516c237dc57aa319d6a532dc63bbb6}
+      \strng{bibnamehash}{dd516c237dc57aa319d6a532dc63bbb6}
+      \strng{authorbibnamehash}{dd516c237dc57aa319d6a532dc63bbb6}
+      \strng{authornamehash}{dd516c237dc57aa319d6a532dc63bbb6}
+      \strng{authorfullhash}{dd516c237dc57aa319d6a532dc63bbb6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{N}ew {M}edia \& {S}ociety}
+      \field{number}{1}
+      \field{title}{{I} {t}weet {h}onestly, {I} {t}weet {p}assionately: {T}witter {u}sers, {c}ontext {c}ollapse, {a}nd {t}he {i}magined {a}udience}
+      \field{volume}{13}
+      \field{year}{2011}
+      \field{pages}{114\bibrangedash 133}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1461444810365313
+      \endverb
+      \warn{\item article entry 'MB1' (proposal.bib): Invalid format 'July 7, 2010' of date field 'date' - ignoring}
+    \endentry
+    \entry{Pitcan1}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=936c90156e4e557d27ea188f48a1ed88}{%
+           family={{P}itcan},
+           familyi={P\bibinitperiod},
+           given={Mikaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={{M}arwick},
+           familyi={M\bibinitperiod},
+           given={{A}lice\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5e69c1dafc69b79775c0244e7bf67aa}{%
+           family={{b}oyd},
+           familyi={b\bibinitperiod},
+           given={{d}anah},
+           giveni={d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{698f3e285be3a7c6c5009ed13127be64}
+      \strng{fullhash}{bd8a4220a80d21d36f9abea9d388a6d5}
+      \strng{bibnamehash}{698f3e285be3a7c6c5009ed13127be64}
+      \strng{authorbibnamehash}{698f3e285be3a7c6c5009ed13127be64}
+      \strng{authornamehash}{698f3e285be3a7c6c5009ed13127be64}
+      \strng{authorfullhash}{bd8a4220a80d21d36f9abea9d388a6d5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This article looks at how people in lower economic statuses curate their image on social media to appeal to what is so called ``respectable''. In addition, it also expands the idea of ``Context Collapse'' }}
+      \field{journaltitle}{{J}ournal of {C}omputer-{M}ediated {C}ommunication}
+      \field{number}{3}
+      \field{title}{{P}erforming a {V}anilla {S}elf: {R}espectability {P}olitics, {S}ocial {C}lass, and the {D}igital {W}orld}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{pages}{163\bibrangedash 179}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1093/jcmc/zmy008
+      \endverb
+      \warn{\item article entry 'Pitcan1' (proposal.bib): Invalid format 'April 6, 2018' of date field 'date' - ignoring}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
