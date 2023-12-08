@@ -1,0 +1,307 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{bio3}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee93deb52f866bdd184da361cc112620}{%
+           family={{C}elant},
+           familyi={C\bibinitperiod},
+           given={{G}ermano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=9849d655d153aec50592ef7c2827b016}{%
+           family={{S}artarelli},
+           familyi={S\bibinitperiod},
+           given={{S}tephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {{T}he {S}olomon {R.} {G}uggenhem {F}oundation}%
+      }
+      \strng{namehash}{ee93deb52f866bdd184da361cc112620}
+      \strng{fullhash}{ee93deb52f866bdd184da361cc112620}
+      \strng{bibnamehash}{ee93deb52f866bdd184da361cc112620}
+      \strng{authorbibnamehash}{ee93deb52f866bdd184da361cc112620}
+      \strng{authornamehash}{ee93deb52f866bdd184da361cc112620}
+      \strng{authorfullhash}{ee93deb52f866bdd184da361cc112620}
+      \strng{translatorbibnamehash}{9849d655d153aec50592ef7c2827b016}
+      \strng{translatornamehash}{9849d655d153aec50592ef7c2827b016}
+      \strng{translatorfullhash}{9849d655d153aec50592ef7c2827b016}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\}
+      \field{booktitle}{{C}laes {O}ldenburg: {A}n {A}nthology}
+      \field{title}{Claes Oldenburg and the Feelings of Things}
+      \field{year}{1995}
+    \endentry
+    \entry{Pic1}{custom}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0326314ccc0c0a305cd143d483d9822e}{%
+           family={{M}aranzano},
+           familyi={M\bibinitperiod},
+           given={{A}ttilio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{fullhash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{bibnamehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{authorbibnamehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{authornamehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{authorfullhash}{0326314ccc0c0a305cd143d483d9822e}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{addendum}{\\}
+      \field{shorttitle}{Maranzano\textsuperscript{2}}
+      \field{title}{Claes Oldenburg and Coosje van Bruggen: Stake Hitch}
+      \field{type}{Picture}
+      \field{year}{1984}
+      \verb{urlraw}
+      \verb oldenburgvanbruggen.com/largescaleprojects/stakehitch.htm
+      \endverb
+      \verb{url}
+      \verb oldenburgvanbruggen.com/largescaleprojects/stakehitch.htm
+      \endverb
+    \endentry
+    \entry{pic4}{custom}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0326314ccc0c0a305cd143d483d9822e}{%
+           family={{M}aranzano},
+           familyi={M\bibinitperiod},
+           given={{A}ttilio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{fullhash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{bibnamehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{authorbibnamehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{authornamehash}{0326314ccc0c0a305cd143d483d9822e}
+      \strng{authorfullhash}{0326314ccc0c0a305cd143d483d9822e}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{addendum}{\\}
+      \field{shorttitle}{Maranzano\textsuperscript{2}}
+      \field{title}{Claes Oldenburg and Coosje van Bruggen: Trowel I}
+      \field{type}{Picture}
+      \field{year}{1976}
+      \verb{urlraw}
+      \verb oldenburgvanbruggen.com/largescaleprojects/trowel.htm
+      \endverb
+      \verb{url}
+      \verb oldenburgvanbruggen.com/largescaleprojects/trowel.htm
+      \endverb
+    \endentry
+    \entry{pic3}{custom}{}
+      \name{author}{1}{}{%
+        {{hash=03e81862fd5a5b02d197ef9a1c31de76}{%
+           family={{M}useum\bibnamedelimb of\bibnamedelimb Fine\bibnamedelima Arts},
+           familyi={M\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Houston},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=703d849a487e4b0ffdf2008812a0625d}{%
+           family={MFAH},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{703d849a487e4b0ffdf2008812a0625d}
+      \strng{fullhash}{03e81862fd5a5b02d197ef9a1c31de76}
+      \strng{bibnamehash}{703d849a487e4b0ffdf2008812a0625d}
+      \strng{authorbibnamehash}{03e81862fd5a5b02d197ef9a1c31de76}
+      \strng{authornamehash}{03e81862fd5a5b02d197ef9a1c31de76}
+      \strng{authorfullhash}{03e81862fd5a5b02d197ef9a1c31de76}
+      \strng{shortauthorbibnamehash}{703d849a487e4b0ffdf2008812a0625d}
+      \strng{shortauthornamehash}{703d849a487e4b0ffdf2008812a0625d}
+      \strng{shortauthorfullhash}{703d849a487e4b0ffdf2008812a0625d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\}
+      \field{title}{Claes Oldenburg: Giant Soft Fan - Ghost Version}
+      \field{type}{Picture}
+      \verb{urlraw}
+      \verb emuseum.mfah.org/objects/836/giant-soft-fanghost-version?ctx=f86ed732c7021444d85f3946791e58b62b28f997&idx=20
+      \endverb
+      \verb{url}
+      \verb emuseum.mfah.org/objects/836/giant-soft-fanghost-version?ctx=f86ed732c7021444d85f3946791e58b62b28f997&idx=20
+      \endverb
+    \endentry
+    \entry{pic2}{custom}{}
+      \name{author}{1}{}{%
+        {{hash=f05f6d0c780624b5ceab3e98b5b58dbb}{%
+           family={{M}odern\bibnamedelima {A}rt},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={{M}useum},
+           giveni={M\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb60271779065f427f26677ae28a9f6e}{%
+           family={MOMA},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb60271779065f427f26677ae28a9f6e}
+      \strng{fullhash}{f05f6d0c780624b5ceab3e98b5b58dbb}
+      \strng{bibnamehash}{bb60271779065f427f26677ae28a9f6e}
+      \strng{authorbibnamehash}{f05f6d0c780624b5ceab3e98b5b58dbb}
+      \strng{authornamehash}{f05f6d0c780624b5ceab3e98b5b58dbb}
+      \strng{authorfullhash}{f05f6d0c780624b5ceab3e98b5b58dbb}
+      \strng{shortauthorbibnamehash}{bb60271779065f427f26677ae28a9f6e}
+      \strng{shortauthornamehash}{bb60271779065f427f26677ae28a9f6e}
+      \strng{shortauthorfullhash}{bb60271779065f427f26677ae28a9f6e}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\}
+      \field{title}{Claes Oldenburg: Giant Soft Fan}
+      \field{type}{Picture}
+      \verb{urlraw}
+      \verb www.moma.org/collection/works/82053
+      \endverb
+      \verb{url}
+      \verb www.moma.org/collection/works/82053
+      \endverb
+    \endentry
+    \entry{Oldenburg1}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0dc0e2a584d1285b89d287c07d47988}{%
+           family={{O}ldenburg},
+           familyi={O\bibinitperiod},
+           given={{C}laes},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e06f2b43695aae94f295ba5ef586c0c9}{%
+           family={König},
+           familyi={K\bibinitperiod},
+           given={Kasper},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Halifax}%
+      }
+      \list{publisher}{1}{%
+        {The {P}ress of the Nova Scotia College of Art {a}nd Design}%
+      }
+      \strng{namehash}{b0dc0e2a584d1285b89d287c07d47988}
+      \strng{fullhash}{b0dc0e2a584d1285b89d287c07d47988}
+      \strng{bibnamehash}{b0dc0e2a584d1285b89d287c07d47988}
+      \strng{authorbibnamehash}{b0dc0e2a584d1285b89d287c07d47988}
+      \strng{authornamehash}{b0dc0e2a584d1285b89d287c07d47988}
+      \strng{authorfullhash}{b0dc0e2a584d1285b89d287c07d47988}
+      \strng{editorbibnamehash}{e06f2b43695aae94f295ba5ef586c0c9}
+      \strng{editornamehash}{e06f2b43695aae94f295ba5ef586c0c9}
+      \strng{editorfullhash}{e06f2b43695aae94f295ba5ef586c0c9}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\}
+      \field{title}{Raw Notes: Documents and Scripts of the Performances: Stars, Moveyhouse, Massage, The Typewriter, with annotations by the author}
+      \field{year}{1973}
+    \endentry
+    \entry{bio1}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14b65e03534a55fa3691bcf9e0ab1735}{%
+           family={{P}rather},
+           familyi={P\bibinitperiod},
+           given={{M}arla},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {{T}he {S}olomon {R.} {G}uggenhem {F}oundation}%
+      }
+      \strng{namehash}{14b65e03534a55fa3691bcf9e0ab1735}
+      \strng{fullhash}{14b65e03534a55fa3691bcf9e0ab1735}
+      \strng{bibnamehash}{14b65e03534a55fa3691bcf9e0ab1735}
+      \strng{authorbibnamehash}{14b65e03534a55fa3691bcf9e0ab1735}
+      \strng{authornamehash}{14b65e03534a55fa3691bcf9e0ab1735}
+      \strng{authorfullhash}{14b65e03534a55fa3691bcf9e0ab1735}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\}
+      \field{booktitle}{{C}laes {O}ldenburg: {A}n {A}nthology}
+      \field{title}{{C}laes {O}ldenburg: {A} {B}iographical {O}verview}
+      \field{year}{1995}
+    \endentry
+    \entry{bio2}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6aa77d7d4f15a76f812fea1bada6aca8}{%
+           family={{R}osenthal},
+           familyi={R\bibinitperiod},
+           given={{M}ark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {{T}he {S}olomon {R.} {G}uggenhem {F}oundation}%
+      }
+      \strng{namehash}{6aa77d7d4f15a76f812fea1bada6aca8}
+      \strng{fullhash}{6aa77d7d4f15a76f812fea1bada6aca8}
+      \strng{bibnamehash}{6aa77d7d4f15a76f812fea1bada6aca8}
+      \strng{authorbibnamehash}{6aa77d7d4f15a76f812fea1bada6aca8}
+      \strng{authornamehash}{6aa77d7d4f15a76f812fea1bada6aca8}
+      \strng{authorfullhash}{6aa77d7d4f15a76f812fea1bada6aca8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{C}laes {O}ldenburg: {A}n {A}nthology}
+      \field{title}{``Unbridled'' Monuments; or, How Claes Oldenburg Set Out to Change the World}
+      \field{year}{1995}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

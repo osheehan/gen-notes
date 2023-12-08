@@ -45,6 +45,39 @@
       \field{title}{{T}he {P}resentation of {S}elf in {E}veryday {L}ife}
       \field{year}{1959}
     \endentry
+    \entry{Hearn1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5382f9b8507a10aad708890c1fc00e78}{%
+           family={{H}earn},
+           familyi={H\bibinitperiod},
+           given={{A}lison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5382f9b8507a10aad708890c1fc00e78}
+      \strng{fullhash}{5382f9b8507a10aad708890c1fc00e78}
+      \strng{bibnamehash}{5382f9b8507a10aad708890c1fc00e78}
+      \strng{authorbibnamehash}{5382f9b8507a10aad708890c1fc00e78}
+      \strng{authornamehash}{5382f9b8507a10aad708890c1fc00e78}
+      \strng{authorfullhash}{5382f9b8507a10aad708890c1fc00e78}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This article is a great look into how people brand themselves in the modern business world. It also takes a look into how this branding is achieved online, and the thought process behind self-branding.\\ }}
+      \field{journaltitle}{{J}ournal of {C}onsumer {C}ulture}
+      \field{number}{2}
+      \field{title}{{M}eat, {M}ask, {B}urden: {P}robing the countours of the branded self}
+      \field{volume}{8}
+      \field{year}{2008}
+      \field{pages}{197\bibrangedash 217}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1177/1469540508090086
+      \endverb
+      \warn{\item article entry 'Hearn1' (proposal.bib): Invalid format 'July 1, 2008' of date field 'date' - ignoring}
+    \endentry
     \entry{Hogan1}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f1b56e70ddac558bbf6d3fa665eb1415}{%
@@ -65,7 +98,7 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\\ \hspace*{.25in} \textit{ This article introduces Goffman's dramaturgical approach in regards to social media, as well as intruding the concept of the lowest common denominator when it comes to online activity. This is used as a basis to examine the reasons behind filtering of the self online. }}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This article introduces Goffman's dramaturgical approach in regards to social media, as well as intruding the concept of the lowest common denominator when it comes to online activity. This is used as a basis to examine the reasons behind filtering of the self online.\\ }}
       \field{journaltitle}{{B}ulletin of {S}cience, {T}echnology \& {S}ociety}
       \field{number}{6}
       \field{title}{{T}he {P}resentation of {S}elf in the {A}ge of {S}ocial {M}edia: {D}istinguishing {P}erformances and {E}xhibitions {O}nline}
@@ -76,6 +109,70 @@
       \verb{doi}
       \verb 10.1177/0270467610385893
       \endverb
+    \endentry
+    \entry{Marwick1}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={{M}arwick},
+           familyi={M\bibinitperiod},
+           given={{A}lice\bibnamedelima {E.}},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale UP}%
+      }
+      \strng{namehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{fullhash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{bibnamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authorbibnamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authornamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authorfullhash}{a5b24b5c9890ba3095958df938b79bc6}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ The article is a good first look into how microcelebrities operate online, and is a good first reading when looking into the subject. This article also introduces many topics and language used in other articles, especially future articles by Marwick.\\ }}
+      \field{booktitle}{Status Update: Celebrity, Publicity, and Branding in the Social Media Age}
+      \field{chapter}{3}
+      \field{title}{Fabulous Life of Micro-Celebrities}
+      \field{year}{2013}
+    \endentry
+    \entry{Marwick2}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={{M}arwick},
+           familyi={M\bibinitperiod},
+           given={{A}lice\bibnamedelima {E.}},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale UP}%
+      }
+      \strng{namehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{fullhash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{bibnamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authorbibnamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authornamehash}{a5b24b5c9890ba3095958df938b79bc6}
+      \strng{authorfullhash}{a5b24b5c9890ba3095958df938b79bc6}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This chapter delves into how people self-brand online to try and present themselves, for lack of a better word, better than they are.\\ }}
+      \field{booktitle}{Status Update: Celebrity, Publicity, and Branding in the Social Media Age}
+      \field{chapter}{4}
+      \field{title}{Self-Branding}
+      \field{year}{2013}
     \endentry
     \entry{MB1}{article}{}
       \name{author}{2}{}{%
@@ -103,6 +200,7 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This chapter is a great place to start reading. It shows how people think about how they tweet, what audience they think they are presenting to, and how context collapse works.\\ }}
       \field{journaltitle}{{N}ew {M}edia \& {S}ociety}
       \field{number}{1}
       \field{title}{{I} {t}weet {h}onestly, {I} {t}weet {p}assionately: {T}witter {u}sers, {c}ontext {c}ollapse, {a}nd {t}he {i}magined {a}udience}
@@ -147,7 +245,7 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\\ \hspace*{.25in} \textit{ This article looks at how people in lower economic statuses curate their image on social media to appeal to what is so called ``respectable''. In addition, it also expands the idea of ``Context Collapse'' }}
+      \field{addendum}{\\ \hspace*{.25in} \textit{ This article looks at how people in lower economic statuses curate their image on social media to appeal to what is so called ``respectable''. In addition, it also expands the idea of ``Context Collapse''\\ }}
       \field{journaltitle}{{J}ournal of {C}omputer-{M}ediated {C}ommunication}
       \field{number}{3}
       \field{title}{{P}erforming a {V}anilla {S}elf: {R}espectability {P}olitics, {S}ocial {C}lass, and the {D}igital {W}orld}

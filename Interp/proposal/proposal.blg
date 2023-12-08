@@ -1,18 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'proposal.blg'
-[38] biber:340> INFO - === Mon Dec  4, 2023, 20:13:52
-[48] Biber.pm:419> INFO - Reading 'proposal.bcf'
-[100] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[108] Biber.pm:4419> INFO - Processing section 0
-[113] Biber.pm:4610> INFO - Looking for bibtex file 'proposal.bib' for section 0
+[38] biber:340> INFO - === Fri Dec  8, 2023, 14:49:14
+[47] Biber.pm:419> INFO - Reading 'proposal.bcf'
+[99] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
+[107] Biber.pm:4419> INFO - Processing section 0
+[112] Biber.pm:4610> INFO - Looking for bibtex file 'proposal.bib' for section 0
 [114] bibtex.pm:1713> INFO - LaTeX decoding ...
 [119] bibtex.pm:1519> INFO - Found BibTeX data source 'proposal.bib'
-[147] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[147] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[147] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[147] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[150] bbl.pm:660> INFO - Writing 'proposal.bbl' with encoding 'UTF-8'
-[151] bbl.pm:763> INFO - Output to proposal.bbl
-[151] Biber.pm:131> WARN - article entry 'MB1' (proposal.bib): Invalid format 'July 7, 2010' of date field 'date' - ignoring
-[151] Biber.pm:131> WARN - article entry 'Pitcan1' (proposal.bib): Invalid format 'April 6, 2018' of date field 'date' - ignoring
-[151] Biber.pm:133> INFO - WARNINGS: 2
+[155] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[155] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[155] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[155] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[159] bbl.pm:660> INFO - Writing 'proposal.bbl' with encoding 'UTF-8'
+[161] bbl.pm:763> INFO - Output to proposal.bbl
+[161] Biber.pm:131> WARN - article entry 'MB1' (proposal.bib): Invalid format 'July 7, 2010' of date field 'date' - ignoring
+[161] Biber.pm:131> WARN - article entry 'Pitcan1' (proposal.bib): Invalid format 'April 6, 2018' of date field 'date' - ignoring
+[161] Biber.pm:131> WARN - article entry 'Hearn1' (proposal.bib): Invalid format 'July 1, 2008' of date field 'date' - ignoring
+[161] Biber.pm:133> INFO - WARNINGS: 3
