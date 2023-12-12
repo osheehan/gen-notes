@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  8 DEC 2023 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  8 DEC 2023 17:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -620,66 +620,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <stake1.jpg, id=36, 127.95345pt x 101.41495pt>
 File: stake1.jpg Graphic file (type jpg)
 <use stake1.jpg>
-Package pdftex.def Info: stake1.jpg  used on input line 53.
+Package pdftex.def Info: stake1.jpg  used on input line 54.
 (pdftex.def)             Requested size: 234.87683pt x 260.18927pt.
 <stake2.jpeg, id=37, 142.17049pt x 111.36688pt>
 File: stake2.jpeg Graphic file (type jpg)
 <use stake2.jpeg>
-Package pdftex.def Info: stake2.jpeg  used on input line 54.
+Package pdftex.def Info: stake2.jpeg  used on input line 55.
 (pdftex.def)             Requested size: 234.89874pt x 260.2202pt.
 
-Overfull \hbox (2.30058pt too wide) in paragraph at lines 53--55
+Overfull \hbox (2.30058pt too wide) in paragraph at lines 54--56
 [][] [] 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 55.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 56.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 55.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 56.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 55.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 56.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 55.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 56.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 55.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 56.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 <fan1.jpeg, id=40, 1504.62125pt x 2007.5pt>
 File: fan1.jpeg Graphic file (type jpg)
 <use fan1.jpeg>
-Package pdftex.def Info: fan1.jpeg  used on input line 61.
+Package pdftex.def Info: fan1.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 194.98775pt x 260.16803pt.
 <fan2.jpeg, id=43, 593.96906pt x 752.8125pt>
 File: fan2.jpeg Graphic file (type jpg)
 <use fan2.jpeg>
-Package pdftex.def Info: fan2.jpeg  used on input line 67.
+Package pdftex.def Info: fan2.jpeg  used on input line 68.
 (pdftex.def)             Requested size: 205.27301pt x 260.16803pt.
 
-Overfull \hbox (2.28001pt too wide) in paragraph at lines 60--71
+Overfull \hbox (2.28001pt too wide) in paragraph at lines 61--72
 [][] [] 
  []
 
 <trowel.jpeg, id=46, 477.785pt x 602.25pt>
 File: trowel.jpeg Graphic file (type jpg)
 <use trowel.jpeg>
-Package pdftex.def Info: trowel.jpeg  used on input line 76.
+Package pdftex.def Info: trowel.jpeg  used on input line 77.
 (pdftex.def)             Requested size: 490.25041pt x 617.90651pt.
 
-Overfull \hbox (20.49539pt too wide) in paragraph at lines 76--78
+Overfull \hbox (20.49539pt too wide) in paragraph at lines 77--79
  [][] 
  []
 
@@ -699,63 +699,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4 <./trowel.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
 
 Package biblatex Warning: No driver for 'custom'.
-(biblatex)                Using fallback driver on input line 85.
+(biblatex)                Using fallback driver on input line 86.
 
 
-Overfull \hbox (27.3123pt too wide) in paragraph at lines 86--86
+Overfull \hbox (27.3123pt too wide) in paragraph at lines 87--87
 []\T1/ptm/m/n/12 Maranzano, At-tilio. Claes Old-en-burg and Coosje van Bruggen: Stake Hitch. 1984. []$oldenburgvanbruggen .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
 
 Package biblatex Warning: No driver for 'custom'.
-(biblatex)                Using fallback driver on input line 85.
+(biblatex)                Using fallback driver on input line 86.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
 
 Package biblatex Warning: No driver for 'custom'.
-(biblatex)                Using fallback driver on input line 85.
+(biblatex)                Using fallback driver on input line 86.
 
 
-Overfull \hbox (25.56273pt too wide) in paragraph at lines 86--86
+Overfull \hbox (25.56273pt too wide) in paragraph at lines 87--87
 \T1/ptm/m/n/12 org / objects / 836 / giant -[] soft -[] fanghost -[] version ? ctx = f86ed732c7021444d85f3946791e58b62b28f997 &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
 
 Package biblatex Warning: No driver for 'custom'.
-(biblatex)                Using fallback driver on input line 85.
+(biblatex)                Using fallback driver on input line 86.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
@@ -784,7 +784,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,11n,83p,743b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on guess_who.pdf (5 pages, 725277 bytes).
+Output written on guess_who.pdf (5 pages, 725403 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
