@@ -1,2 +1,2 @@
 # gen-notes
-Just a repository for my LaTeX stuff
+Repository for Notes and Essays for College
