@@ -1,8 +1,8 @@
-PWD /Users/Owen/Documents/VSC/gen-notes/2nd Semester/Ireland
+PWD /Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Ireland
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Owen/Documents/VSC/gen-notes/2nd Semester/Ireland/Notes.tex
+INPUT /Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Ireland/Notes.tex
 OUTPUT Notes.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
