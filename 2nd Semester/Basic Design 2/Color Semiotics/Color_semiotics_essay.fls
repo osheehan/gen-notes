@@ -1,9 +1,9 @@
-PWD /Users/Owen/Documents/GitHub/gen-notes/1st semester/Interp/proposal
+PWD /Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Owen/Documents/GitHub/gen-notes/1st semester/Interp/proposal/proposal.tex
-OUTPUT proposal.log
+INPUT /Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_essay.tex
+OUTPUT Color_semiotics_essay.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -586,22 +586,22 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT ./proposal.aux
-INPUT proposal.aux
-INPUT proposal.aux
-OUTPUT proposal.aux
-INPUT ./proposal.out
-INPUT proposal.out
-INPUT ./proposal.out
-INPUT proposal.out
-INPUT ./proposal.out
-INPUT proposal.out
-INPUT ./proposal.out
-INPUT proposal.out
-INPUT ./proposal.out
-INPUT ./proposal.out
-OUTPUT proposal.out
-OUTPUT proposal.pdf
+INPUT ./Color_semiotics_essay.aux
+INPUT Color_semiotics_essay.aux
+INPUT Color_semiotics_essay.aux
+OUTPUT Color_semiotics_essay.aux
+INPUT ./Color_semiotics_essay.out
+INPUT Color_semiotics_essay.out
+INPUT ./Color_semiotics_essay.out
+INPUT Color_semiotics_essay.out
+INPUT ./Color_semiotics_essay.out
+INPUT Color_semiotics_essay.out
+INPUT ./Color_semiotics_essay.out
+INPUT Color_semiotics_essay.out
+INPUT ./Color_semiotics_essay.out
+INPUT ./Color_semiotics_essay.out
+OUTPUT Color_semiotics_essay.out
+OUTPUT Color_semiotics_essay.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -632,14 +632,13 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-OUTPUT proposal.bcf
-INPUT proposal.bbl
-INPUT ./proposal.bbl
-INPUT proposal.bbl
-INPUT ./proposal.bbl
-INPUT ./proposal.bbl
-INPUT proposal.bbl
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+OUTPUT Color_semiotics_essay.bcf
+INPUT Color_semiotics_essay.bbl
+INPUT ./Color_semiotics_essay.bbl
+INPUT Color_semiotics_essay.bbl
+INPUT ./Color_semiotics_essay.bbl
+INPUT ./Color_semiotics_essay.bbl
+INPUT Color_semiotics_essay.bbl
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
@@ -647,67 +646,10 @@ INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT ./Are Online Accounts Authentic_.pdf
-INPUT ./Are Online Accounts Authentic_.pdf
-INPUT Are Online Accounts Authentic_.pdf
-INPUT ./Are Online Accounts Authentic_.pdf
-INPUT ./Are Online Accounts Authentic_.pdf
-INPUT ./For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf
-INPUT ./For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf
-INPUT For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf
-INPUT ./For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf
-INPUT ./For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf
-INPUT ./For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf
-INPUT ./For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf
-INPUT For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf
-INPUT ./For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf
-INPUT ./For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf
-INPUT proposal.aux
-INPUT ./proposal.out
-INPUT ./proposal.out
-INPUT proposal.run.xml
-OUTPUT proposal.run.xml
+INPUT Color_semiotics_essay.aux
+INPUT ./Color_semiotics_essay.out
+INPUT ./Color_semiotics_essay.out
+INPUT Color_semiotics_essay.run.xml
+OUTPUT Color_semiotics_essay.run.xml
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb

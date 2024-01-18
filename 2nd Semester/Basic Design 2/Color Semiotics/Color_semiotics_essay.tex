@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+\usepackage[letterpaper, portrait, margin=1in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage[backend=biber, style=mla]{biblatex}
+\pagestyle{fancy}
+\addbibresource{colorSemiotics.bib}  
+
+\fancyhf{} % sets both header and footer to nothing}
+\renewcommand{\headrulewidth}{0pt}
+\pagenumbering{arabic}
+\rhead{Sheehan \thepage} 
+
+
+\def\class{Basic Design 2}
+\def\prof{Olivera Gajic}
+\def\due{January 23, 2024}
+
+\fancypagestyle{1stPage}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt} % removes horizontal header line
+    \lhead{Owen M. Sheehan \\ \prof{} \\ \class{} \\ \due{}}
+    \rhead{ Sheehan 1}
+}
+
+
+\thispagestyle{1stPage}
+\begin{document}
+\vspace*{20pt}
+\begin{center}
+        \textbf{Color Semiotics: Green}
+\end{center}
+    \begin{doublespace}
+
+    \end{doublespace}
+
+\newpage
+TODO %\printbibliography 
+\end{document}

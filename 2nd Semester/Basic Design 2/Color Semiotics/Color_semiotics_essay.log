@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  18 JAN 2024 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  18 JAN 2024 11:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/Owen/Documents/GitHub/gen-notes/1st semester/Interp/proposal/proposal.tex"
-(/Users/Owen/Documents/GitHub/gen-notes/1st semester/Interp/proposal/proposal.tex
+**"/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_essay.tex"
+(/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_essay.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -464,30 +464,30 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 \@quotelevel=\count402
 \@quotereset=\count403
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 32.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (./proposal.aux)
-\openout1 = `proposal.aux'.
+) (./Color_semiotics_essay.aux)
+\openout1 = `Color_semiotics_essay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -523,10 +523,10 @@ LaTeX Font Info:    ... okay on input line 24.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 24.
-(./proposal.out) (./proposal.out)
+Package hyperref Info: Link coloring OFF on input line 32.
+(./Color_semiotics_essay.out) (./Color_semiotics_essay.out)
 \@outlinefile=\write4
-\openout4 = `proposal.out'.
+\openout4 = `Color_semiotics_essay.out'.
 
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -565,29 +565,13 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `proposal.bcf'.
+\openout3 = `Color_semiotics_essay.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'proposal.bbl' found.
- (./proposal.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Hearn1':
-(biblatex)                - article entry 'Hearn1' (proposal.bib): Invalid format 'July 1, 2008' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'MB1':
-(biblatex)                - article entry 'MB1' (proposal.bib): Invalid format 'July 7, 2010' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Pitcan1':
-(biblatex)                - article entry 'Pitcan1' (proposal.bib): Invalid format 'April 6, 2018' of date field 'date' - ignoring.
-
-)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+Package biblatex Info: ... file 'Color_semiotics_essay.bbl' found.
+ (./Color_semiotics_essay.bbl)
+Package biblatex Info: Reference section=0 on input line 32.
+Package biblatex Info: Reference segment=0 on input line 32.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -599,10 +583,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 ]
-Overfull \hbox (12.09799pt too wide) in paragraph at lines 53--58
-[]\T1/ptm/m/n/12 Bernie Hogan uses Erv-ing Goff-man's dra-matur-gi-cal ap-proach, which he de-scribes as ``a metaphor-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -610,134 +590,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 75.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 75.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 75.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 75.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 75.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]
-<Are Online Accounts Authentic_.pdf, id=63, 602.25pt x 372.39125pt>
-File: Are Online Accounts Authentic_.pdf Graphic file (type pdf)
-<use Are Online Accounts Authentic_.pdf>
-Package pdftex.def Info: Are Online Accounts Authentic_.pdf  used on input line 82.
-(pdftex.def)             Requested size: 328.82707pt x 203.33275pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5 <./Are Online Accounts Authentic_.pdf>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6]
-<For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf, id=90, 602.25pt x 372.39125pt>
-File: For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf Graphic file (type pdf)
-<use For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf>
-Package pdftex.def Info: For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf  used on input line 120.
-(pdftex.def)             Requested size: 328.82707pt x 203.33275pt.
-<For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf, id=91, 602.25pt x 372.39125pt>
-File: For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf Graphic file (type pdf)
-<use For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf>
-Package pdftex.def Info: For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf  used on input line 127.
-(pdftex.def)             Requested size: 328.82707pt x 203.33275pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7 <./For Celebrities Accounts, Do You Think The Content Posted is Authentic_.pdf> <./For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf
-
-pdfTeX warning: pdflatex (file ./For Friends Accounts, Do You Think The Content Posted Is Authentic_.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] (./proposal.aux)
-Package rerunfilecheck Info: File `proposal.out' has not changed.
+[2] (./Color_semiotics_essay.aux)
+Package rerunfilecheck Info: File `Color_semiotics_essay.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'proposal.run.xml'.
-\openout1 = `proposal.run.xml'.
+Package logreq Info: Writing requests to 'Color_semiotics_essay.run.xml'.
+\openout1 = `Color_semiotics_essay.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17418 strings out of 476025
- 311813 string characters out of 5790017
- 1859388 words of memory out of 5000000
- 37644 multiletter control sequences out of 15000+600000
- 531496 words of font info for 59 fonts, out of 8000000 for 9000
+ 17013 strings out of 476025
+ 303115 string characters out of 5790017
+ 1853388 words of memory out of 5000000
+ 37297 multiletter control sequences out of 15000+600000
+ 518874 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,751b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.0@Hearn1} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Marwick2} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Marwick1} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Pitcan1} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Goffman} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Hogan1} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@MB1} has been referenced but does not exist, replaced by a fixed one
-
-</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proposal.pdf (7 pages, 117858 bytes).
+ 75i,11n,76p,779b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Color_semiotics_essay.pdf (2 pages, 23423 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
