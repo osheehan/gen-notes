@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  18 JAN 2024 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  19 JAN 2024 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -440,35 +440,85 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Color_semiotics_notes.bbl' found.
- (./Color_semiotics_notes.bbl)
+ (./Color_semiotics_notes.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Islam':
+(biblatex)                - article entry 'Islam' (colorSemiotics.bib): Invalid format '6/17/2020' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'ModernMet':
+(biblatex)                - article entry 'ModernMet' (colorSemiotics.bib): Invalid format '6/16/2020' of date field 'date' - ignoring.
+
+)
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 21.
+ (./Color_semiotics_notes.toc)
+\tf@toc=\write5
+\openout5 = `Color_semiotics_notes.toc'.
+
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./Color_semiotics_notes.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 59.
+
+Overfull \hbox (0.57681pt too wide) in paragraph at lines 60--60
+\OT1/cmr/m/n/12 to a Sym-bol of En-vi-ron-men-tal-ism''. \OT1/cmr/m/it/12 My Mod-ern Met\OT1/cmr/m/n/12 , 2020. []$mymodernmet .
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4] (./Color_semiotics_notes.aux)
 Package rerunfilecheck Info: File `Color_semiotics_notes.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: EA88B08DA43EBC40DDE18D33B5297E66;354.
 Package logreq Info: Writing requests to 'Color_semiotics_notes.run.xml'.
 \openout1 = `Color_semiotics_notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15345 strings out of 476025
- 278295 string characters out of 5790017
- 1852388 words of memory out of 5000000
- 35682 multiletter control sequences out of 15000+600000
- 514134 words of font info for 38 fonts, out of 8000000 for 9000
+ 15655 strings out of 476025
+ 284368 string characters out of 5790017
+ 1858388 words of memory out of 5000000
+ 35953 multiletter control sequences out of 15000+600000
+ 518184 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,76p,779b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Color_semiotics_notes.pdf (1 page, 32837 bytes).
+ 75i,11n,76p,779b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Color_semiotics_notes.pdf (4 pages, 83538 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
