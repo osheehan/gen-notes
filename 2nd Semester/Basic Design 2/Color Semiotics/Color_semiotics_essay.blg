@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Color_semiotics_essay.blg'
+[38] biber:340> INFO - === Sun Jan 21, 2024, 19:04:05
+[47] Biber.pm:419> INFO - Reading 'Color_semiotics_essay.bcf'
+[99] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
+[107] Biber.pm:4419> INFO - Processing section 0
+[112] Biber.pm:4610> INFO - Looking for bibtex file 'colorSemiotics.bib' for section 0
+[113] bibtex.pm:1713> INFO - LaTeX decoding ...
+[116] bibtex.pm:1519> INFO - Found BibTeX data source 'colorSemiotics.bib'
+[139] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[139] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[139] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[139] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[143] bbl.pm:660> INFO - Writing 'Color_semiotics_essay.bbl' with encoding 'UTF-8'
+[144] bbl.pm:763> INFO - Output to Color_semiotics_essay.bbl
+[144] Biber.pm:131> WARN - article entry 'ModernMet' (colorSemiotics.bib): Invalid format '6/16/2020' of date field 'date' - ignoring
+[144] Biber.pm:131> WARN - article entry 'Islam' (colorSemiotics.bib): Invalid format '6/17/2020' of date field 'date' - ignoring
+[144] Biber.pm:133> INFO - WARNINGS: 2

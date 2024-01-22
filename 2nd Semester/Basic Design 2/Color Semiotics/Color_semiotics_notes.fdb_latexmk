@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Color_semiotics_notes"] 1705698771 "Color_semiotics_notes.bcf" "Color_semiotics_notes.bbl" "Color_semiotics_notes" 1705698774 0
-  "./colorSemiotics.bib" 1705698771 1178 a233b011c103073e767e452b35bf3dd3 ""
-  "Color_semiotics_notes.bcf" 1705698774 126159 dcaa89a8fee2d61b7d618fea6798844d "pdflatex"
+["biber Color_semiotics_notes"] 1705880267 "Color_semiotics_notes.bcf" "Color_semiotics_notes.bbl" "Color_semiotics_notes" 1705880268 0
+  "./colorSemiotics.bib" 1705880267 1178 a233b011c103073e767e452b35bf3dd3 ""
+  "Color_semiotics_notes.bcf" 1705880268 126159 dcaa89a8fee2d61b7d618fea6798844d "pdflatex"
   (generated)
   "Color_semiotics_notes.bbl"
   "Color_semiotics_notes.blg"
   (rewritten before read)
-["pdflatex"] 1705698773 "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_notes.tex" "Color_semiotics_notes.pdf" "Color_semiotics_notes" 1705698774 0
-  "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_notes.tex" 1705698716 3621 88670874400cf9a6bcb1f30235e73df6 ""
+["pdflatex"] 1705880267 "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_notes.tex" "Color_semiotics_notes.pdf" "Color_semiotics_notes" 1705880268 0
+  "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Basic Design 2/Color Semiotics/Color_semiotics_notes.tex" 1705880189 3621 88670874400cf9a6bcb1f30235e73df6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -88,13 +88,13 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695923447 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695923408 7883453 7705c8d5ef118415256756fd9593a0c5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Color_semiotics_notes.aux" 1705698774 2223 75584ac5a24dd858df8a120e49db25ca "pdflatex"
-  "Color_semiotics_notes.bbl" 1705698772 4926 89e10c1ba2c24167c7ec4a2fa6062d1c "biber Color_semiotics_notes"
-  "Color_semiotics_notes.out" 1705698774 354 ea88b08da43ebc40dde18d33b5297e66 "pdflatex"
-  "Color_semiotics_notes.run.xml" 1705698774 2553 91fa2b69086a91fca05459832ece79a2 "pdflatex"
-  "Color_semiotics_notes.tex" 1705698716 3621 88670874400cf9a6bcb1f30235e73df6 ""
-  "Color_semiotics_notes.toc" 1705698774 210 8114ce7887242e1b75f20bbd12e9f381 "pdflatex"
-  "colorSemiotics.bib" 1705698771 1178 a233b011c103073e767e452b35bf3dd3 ""
+  "Color_semiotics_notes.aux" 1705880268 2223 75584ac5a24dd858df8a120e49db25ca "pdflatex"
+  "Color_semiotics_notes.bbl" 1705880267 4926 89e10c1ba2c24167c7ec4a2fa6062d1c "biber Color_semiotics_notes"
+  "Color_semiotics_notes.out" 1705880268 354 ea88b08da43ebc40dde18d33b5297e66 "pdflatex"
+  "Color_semiotics_notes.run.xml" 1705880268 2553 91fa2b69086a91fca05459832ece79a2 "pdflatex"
+  "Color_semiotics_notes.tex" 1705880189 3621 88670874400cf9a6bcb1f30235e73df6 ""
+  "Color_semiotics_notes.toc" 1705880268 210 8114ce7887242e1b75f20bbd12e9f381 "pdflatex"
+  "colorSemiotics.bib" 1705880267 1178 a233b011c103073e767e452b35bf3dd3 ""
   (generated)
   "Color_semiotics_notes.aux"
   "Color_semiotics_notes.bcf"

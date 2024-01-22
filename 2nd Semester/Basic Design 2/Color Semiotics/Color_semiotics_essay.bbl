@@ -16,5 +16,114 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Islam}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=501fc6f1d7105f5591851b4faebb4b21}{%
+           family={Danesh},
+           familyi={D\bibinitperiod},
+           given={Kazem},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2f742f6279aa3b567ffa6e3797b22dd}{%
+           family={Khazaie},
+           familyi={K\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8692cd0f77a6f0e14aacec925a93d73}
+      \strng{fullhash}{a8692cd0f77a6f0e14aacec925a93d73}
+      \strng{bibnamehash}{a8692cd0f77a6f0e14aacec925a93d73}
+      \strng{authorbibnamehash}{a8692cd0f77a6f0e14aacec925a93d73}
+      \strng{authornamehash}{a8692cd0f77a6f0e14aacec925a93d73}
+      \strng{authorfullhash}{a8692cd0f77a6f0e14aacec925a93d73}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Art Faculty, Shahid Chamran University of Ahvaz}
+      \field{number}{19}
+      \field{title}{The symbolism of green color in Iranian-Islamic culture and art}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{24\bibrangedash 32}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.22055/pyk.2020.15725
+      \endverb
+      \warn{\item article entry 'Islam' (colorSemiotics.bib): Invalid format '6/17/2020' of date field 'date' - ignoring}
+    \endentry
+    \entry{colorSymbolism}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c91d897ab90a708387f80b6edd7f2539}{%
+           family={Evarts},
+           familyi={E\bibinitperiod},
+           given={Arrah\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c91d897ab90a708387f80b6edd7f2539}
+      \strng{fullhash}{c91d897ab90a708387f80b6edd7f2539}
+      \strng{bibnamehash}{c91d897ab90a708387f80b6edd7f2539}
+      \strng{authorbibnamehash}{c91d897ab90a708387f80b6edd7f2539}
+      \strng{authornamehash}{c91d897ab90a708387f80b6edd7f2539}
+      \strng{authorfullhash}{c91d897ab90a708387f80b6edd7f2539}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Psychoanalytic Review (1913-1957)}
+      \field{note}{Last updated - 2013-02-25}
+      \field{title}{Color Symbolism}
+      \field{volume}{6}
+      \field{year}{1919}
+      \field{pages}{124\bibrangedash 157}
+      \range{pages}{34}
+      \verb{urlraw}
+      \verb www.proquest.com/scholarly-journals/color-symbolism/docview/1309886773/se-2
+      \endverb
+      \verb{url}
+      \verb www.proquest.com/scholarly-journals/color-symbolism/docview/1309886773/se-2
+      \endverb
+      \keyw{Psychology}
+    \endentry
+    \entry{ModernMet}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50054632805c071ec977292fcf82b016}{%
+           family={Taggart},
+           familyi={T\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50054632805c071ec977292fcf82b016}
+      \strng{fullhash}{50054632805c071ec977292fcf82b016}
+      \strng{bibnamehash}{50054632805c071ec977292fcf82b016}
+      \strng{authorbibnamehash}{50054632805c071ec977292fcf82b016}
+      \strng{authornamehash}{50054632805c071ec977292fcf82b016}
+      \strng{authorfullhash}{50054632805c071ec977292fcf82b016}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{My Modern Met}
+      \field{title}{The History of the Color Green: From a Poisonous Pigment to a Symbol of Environmentalism}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb mymodernmet.com/history-of-the-color-green/
+      \endverb
+      \verb{url}
+      \verb mymodernmet.com/history-of-the-color-green/
+      \endverb
+      \warn{\item article entry 'ModernMet' (colorSemiotics.bib): Invalid format '6/16/2020' of date field 'date' - ignoring}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
