@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  24 JAN 2024 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  21 JAN 2024 19:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Production Planning/PP_notes.tex"
-(/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Production Planning/PP_notes.tex
+**"/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Ireland/Readings/readingnotes.tex"
+(/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Ireland/Readings/readingnotes.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -80,6 +80,8 @@ File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4060.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 4060.
 Package hyperref Info: Hyper figures OFF on input line 4177.
 Package hyperref Info: Link nesting OFF on input line 4182.
 Package hyperref Info: Hyper index ON on input line 4185.
@@ -106,7 +108,7 @@ Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
 Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring ON on input line 6060.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
@@ -149,8 +151,8 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count270
 \l__pdf_internal_box=\box51
-) (./PP_notes.aux)
-\openout1 = `PP_notes.aux'.
+) (./readingnotes.aux)
+\openout1 = `readingnotes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -170,16 +172,38 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
-Package hyperref Info: Link coloring OFF on input line 17.
- (./PP_notes.out) (./PP_notes.out)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen145
+\scratchbox=\box52
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen146
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks18
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 17.
+ (./readingnotes.out) (./readingnotes.out)
 \@outlinefile=\write3
-\openout3 = `PP_notes.out'.
+\openout3 = `readingnotes.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 19.
- (./PP_notes.toc
+ (./readingnotes.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -188,7 +212,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 )
 \tf@toc=\write4
-\openout4 = `PP_notes.toc'.
+\openout4 = `readingnotes.toc'.
 
  [1
 
@@ -200,63 +224,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7] (./PP_notes.aux)
-Package rerunfilecheck Info: File `PP_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 3DE519BA40F3D3A8F6B9CB56792BDAD1;392.
+[2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./readingnotes.aux)
+Package rerunfilecheck Info: File `readingnotes.out' has not changed.
+(rerunfilecheck)             Checksum: 2798A0D082CB12B8BA61BF10D7264285;181.
  ) 
 Here is how much of TeX's memory you used:
- 7518 strings out of 476025
- 120138 string characters out of 5790017
- 1858388 words of memory out of 5000000
- 27898 multiletter control sequences out of 15000+600000
+ 8047 strings out of 476025
+ 127820 string characters out of 5790017
+ 1853388 words of memory out of 5000000
+ 28426 multiletter control sequences out of 15000+600000
  518144 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,329b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on PP_notes.pdf (7 pages, 70596 bytes).
+ 75i,11n,76p,330b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on readingnotes.pdf (2 pages, 47978 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
