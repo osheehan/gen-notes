@@ -1,3 +1,5 @@
 \contentsline {section}{\numberline {1}Week 2}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Monday 1/22/24}{2}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Resume and Cover Letters}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Week 3}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Phases 2}{8}{subsection.2.1}%

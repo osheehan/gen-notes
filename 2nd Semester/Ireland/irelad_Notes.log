@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  29 JAN 2024 13:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  29 JAN 2024 13:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -318,23 +318,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14] (./irelad_Notes.aux)
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15] (./irelad_Notes.aux)
 Package rerunfilecheck Info: File `irelad_Notes.out' has not changed.
-(rerunfilecheck)             Checksum: 3A707CC5985AA2CA3E068A96120238F2;753.
+(rerunfilecheck)             Checksum: 187E8D32A20BE771CE19AAE731709C9C;855.
  ) 
 Here is how much of TeX's memory you used:
- 7530 strings out of 476025
- 120336 string characters out of 5790017
+ 7533 strings out of 476025
+ 120373 string characters out of 5790017
  1859388 words of memory out of 5000000
- 27907 multiletter control sequences out of 15000+600000
+ 27908 multiletter control sequences out of 15000+600000
  518800 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,666b,636s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on irelad_Notes.pdf (14 pages, 121534 bytes).
+Output written on irelad_Notes.pdf (15 pages, 122336 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
