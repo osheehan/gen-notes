@@ -5,4 +5,6 @@
 \contentsline {subsection}{\numberline {2.2}Irish Diasporas}{9}{subsection.2.2}%
 \contentsline {section}{\numberline {3}Week 3}{11}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Fenianism}{11}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}wednesday}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Parnell}{15}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Week 4}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Monday}{19}{subsection.4.1}%

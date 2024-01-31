@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  23 JAN 2024 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  30 JAN 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,23 +216,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4] (./Foundations_notes.aux)
+[4]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5] (./Foundations_notes.aux)
 Package rerunfilecheck Info: File `Foundations_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 7730746AAF69B6E0399D8B9480A481FE;435.
+(rerunfilecheck)             Checksum: 6C2AC9300E0EF0F8588B9A49B368D29C;756.
  ) 
 Here is how much of TeX's memory you used:
- 7506 strings out of 476025
- 120228 string characters out of 5790017
- 1859388 words of memory out of 5000000
- 27898 multiletter control sequences out of 15000+600000
+ 7517 strings out of 476025
+ 120348 string characters out of 5790017
+ 1858388 words of memory out of 5000000
+ 27901 multiletter control sequences out of 15000+600000
  518144 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,330b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Foundations_notes.pdf (4 pages, 66588 bytes).
+Output written on Foundations_notes.pdf (5 pages, 69788 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

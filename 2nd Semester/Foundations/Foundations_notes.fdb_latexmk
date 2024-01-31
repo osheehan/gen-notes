@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706041149 "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Foundations/Foundations_notes.tex" "Foundations_notes.pdf" "Foundations_notes" 1706041150 0
-  "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Foundations/Foundations_notes.tex" 1706041149 5126 a65628a59bcd879abb987d42b1a9aebd ""
+["pdflatex"] 1706643266 "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Foundations/Foundations_notes.tex" "Foundations_notes.pdf" "Foundations_notes" 1706643266 0
+  "/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Foundations/Foundations_notes.tex" 1706643265 6673 c52daec32e5af3503dd9885e5f649a1a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -59,10 +59,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695923447 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695923408 7883453 7705c8d5ef118415256756fd9593a0c5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Foundations_notes.aux" 1706041150 1006 bc0c62d9901ebd3cc69ea494f4c85814 "pdflatex"
-  "Foundations_notes.out" 1706041150 435 7730746aaf69b6e0399d8b9480a481fe "pdflatex"
-  "Foundations_notes.tex" 1706041149 5126 a65628a59bcd879abb987d42b1a9aebd ""
-  "Foundations_notes.toc" 1706041150 288 5c50b34bdb3614e047d97f2f8e116a76 "pdflatex"
+  "Foundations_notes.aux" 1706643266 1356 4eaf7f3542d7166fab824daa7f0da8e0 "pdflatex"
+  "Foundations_notes.out" 1706643266 756 6c2ac9300e0ef0f8588b9a49b368d29c "pdflatex"
+  "Foundations_notes.tex" 1706643265 6673 c52daec32e5af3503dd9885e5f649a1a ""
+  "Foundations_notes.toc" 1706643266 515 216ccbee511bc62f9954a57c3a16ba08 "pdflatex"
   (generated)
   "Foundations_notes.aux"
   "Foundations_notes.log"
