@@ -1,0 +1,20 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Ip_statement.blg'
+[41] biber:340> INFO - === Sun Feb 18, 2024, 16:34:54
+[51] Biber.pm:419> INFO - Reading 'Ip_statement.bcf'
+[101] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[109] Biber.pm:4419> INFO - Processing section 0
+[115] Biber.pm:4610> INFO - Looking for bibtex file 'ip_state.bib' for section 0
+[116] bibtex.pm:1713> INFO - LaTeX decoding ...
+[119] bibtex.pm:1519> INFO - Found BibTeX data source 'ip_state.bib'
+[151] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[151] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[151] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[151] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[156] bbl.pm:660> INFO - Writing 'Ip_statement.bbl' with encoding 'UTF-8'
+[157] bbl.pm:763> INFO - Output to Ip_statement.bbl
+[158] Biber.pm:131> WARN - article entry 'Playbill1' (ip_state.bib): Invalid format '12/05/2015' of date field 'date' - ignoring
+[158] Biber.pm:131> WARN - article entry 'key' (ip_state.bib): Invalid format '12/21/2014' of date field 'date' - ignoring
+[158] Biber.pm:131> WARN - article entry 'bway_world' (ip_state.bib): Invalid format '11/21/2022' of date field 'date' - ignoring
+[158] Biber.pm:131> WARN - article entry 'LA_times' (ip_state.bib): Invalid format '11/26/1988' of date field 'date' - ignoring
+[158] Biber.pm:133> INFO - WARNINGS: 4

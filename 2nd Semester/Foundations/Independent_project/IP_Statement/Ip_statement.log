@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  13 FEB 2024 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.28)  18 FEB 2024 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Ireland/Reading Review/Reading_review.tex"
-(/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Ireland/Reading Review/Reading_review.tex
+**"/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Foundations/Independent_project/IP_Statement/Ip_statement.tex"
+(/Users/Owen/Documents/GitHub/gen-notes/2nd Semester/Foundations/Independent_project/IP_Statement/Ip_statement.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -464,30 +464,30 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 \@quotelevel=\count402
 \@quotereset=\count403
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 33.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 34.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (./Reading_review.aux)
-\openout1 = `Reading_review.aux'.
+) (./Ip_statement.aux)
+\openout1 = `Ip_statement.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -523,10 +523,10 @@ LaTeX Font Info:    ... okay on input line 33.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 33.
-(./Reading_review.out) (./Reading_review.out)
+Package hyperref Info: Link coloring OFF on input line 34.
+(./Ip_statement.out) (./Ip_statement.out)
 \@outlinefile=\write4
-\openout4 = `Reading_review.out'.
+\openout4 = `Ip_statement.out'.
 
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -565,13 +565,34 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `Reading_review.bcf'.
+\openout3 = `Ip_statement.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Reading_review.bbl' found.
- (./Reading_review.bbl)
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
+Package biblatex Info: ... file 'Ip_statement.bbl' found.
+ (./Ip_statement.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Playbill1':
+(biblatex)                - article entry 'Playbill1' (ip_state.bib): Invalid format '12/05/2015' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'LA_times':
+(biblatex)                - article entry 'LA_times' (ip_state.bib): Invalid format '11/26/1988' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'key':
+(biblatex)                - article entry 'key' (ip_state.bib): Invalid format '12/21/2014' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'bway_world':
+(biblatex)                - article entry 'bway_world' (ip_state.bib): Invalid format '11/21/2022' of date field 'date' - ignoring.
+
+)
+Package biblatex Info: Reference section=0 on input line 34.
+Package biblatex Info: Reference segment=0 on input line 34.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -591,6 +612,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 68.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 68.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 68.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 68.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 68.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+
+Overfull \hbox (11.45717pt too wide) in paragraph at lines 70--70
+[]\T1/ptm/m/n/12 ``A Wilder Christ-mas, Fea-tur-ing Rarely-Seen Thorn-ton Wilder Plays, Be-gins Off-Broadway Tonight''.
+ []
+
+
+Overfull \hbox (33.89706pt too wide) in paragraph at lines 70--70
+[]\T1/ptm/m/n/12 Specian, Eric. ``The Long Christ-mas Din-ner: Overview''. \T1/ptm/m/it/12 The Thor-ton Wilder So-ci-ety\T1/ptm/m/n/12 , []$www . twildersociety .
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -598,26 +655,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (./Reading_review.aux)
-Package rerunfilecheck Info: File `Reading_review.out' has not changed.
+[3] (./Ip_statement.aux)
+Package rerunfilecheck Info: File `Ip_statement.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'Reading_review.run.xml'.
-\openout1 = `Reading_review.run.xml'.
+Package logreq Info: Writing requests to 'Ip_statement.run.xml'.
+\openout1 = `Ip_statement.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17016 strings out of 476025
- 302960 string characters out of 5790017
- 1859388 words of memory out of 5000000
- 37298 multiletter control sequences out of 15000+600000
- 521641 words of font info for 40 fonts, out of 8000000 for 9000
+ 17374 strings out of 476025
+ 310334 string characters out of 5790017
+ 1861388 words of memory out of 5000000
+ 37624 multiletter control sequences out of 15000+600000
+ 535995 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,764b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Reading_review.pdf (3 pages, 31892 bytes).
+ 75i,11n,76p,784b,2645s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Ip_statement.pdf (3 pages, 49372 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
