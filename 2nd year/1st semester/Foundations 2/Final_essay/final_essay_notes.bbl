@@ -1,0 +1,700 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{bruceAndrewBruceMusical}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=400a6a05709fb8aa6acdf92f9f33a452}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{2}{%
+        {Faster}%
+        {Wider}%
+      }
+      \strng{namehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{fullhash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{fullhashraw}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{bibnamehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authorbibnamehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authornamehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authorfullhash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authorfullhashraw}{400a6a05709fb8aa6acdf92f9f33a452}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Andrew {{Bruce}}: {{The Musical}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.fast-and-wide.com/more/wideangle/5934-theatre-mixing
+      \endverb
+      \verb{url}
+      \verb www.fast-and-wide.com/more/wideangle/5934-theatre-mixing
+      \endverb
+    \endentry
+    \entry{bruceTheatreSoundDigital}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=400a6a05709fb8aa6acdf92f9f33a452}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{2}{%
+        {Faster}%
+        {Wider}%
+      }
+      \strng{namehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{fullhash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{fullhashraw}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{bibnamehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authorbibnamehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authornamehash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authorfullhash}{400a6a05709fb8aa6acdf92f9f33a452}
+      \strng{authorfullhashraw}{400a6a05709fb8aa6acdf92f9f33a452}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theatre {{Sound}}: {{Towards Digital Mixing}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/YYF3ANVJ/5971-theatre-sound-towards-digital-mixing.html
+      \endverb
+      \verb{urlraw}
+      \verb www.fast-and-wide.com/more/wideangle/5971-theatre-sound-towards-digital-mixing
+      \endverb
+      \verb{url}
+      \verb www.fast-and-wide.com/more/wideangle/5971-theatre-sound-towards-digital-mixing
+      \endverb
+    \endentry
+    \entry{coulesMixingEvolutionKey2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=923574420adddf7103e048158615a7d1}{%
+           family={Coules},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {ProSoundWeb}%
+      }
+      \strng{namehash}{923574420adddf7103e048158615a7d1}
+      \strng{fullhash}{923574420adddf7103e048158615a7d1}
+      \strng{fullhashraw}{923574420adddf7103e048158615a7d1}
+      \strng{bibnamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authorbibnamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authornamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authorfullhash}{923574420adddf7103e048158615a7d1}
+      \strng{authorfullhashraw}{923574420adddf7103e048158615a7d1}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Considering the current capabilities of digital consoles, how we got here, and what the future of mixing may hold.}
+      \field{day}{18}
+      \field{langid}{american}
+      \field{month}{2}
+      \field{shorttitle}{Mixing {{Evolution}}}
+      \field{title}{Mixing {{Evolution}}: {{Key Steps In The Journey To The Digital Console Platform}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/XK5624BV/mixing-evolution-key-steps-in-the-journey-to-the-digital-console-platform.html
+      \endverb
+      \verb{urlraw}
+      \verb www.prosoundweb.com/mixing-evolution-key-steps-in-the-journey-to-the-digital-console-platform/
+      \endverb
+      \verb{url}
+      \verb www.prosoundweb.com/mixing-evolution-key-steps-in-the-journey-to-the-digital-console-platform/
+      \endverb
+    \endentry
+    \entry{coulesHistoryLiveSound2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=923574420adddf7103e048158615a7d1}{%
+           family={Coules},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Harman}%
+      }
+      \strng{namehash}{923574420adddf7103e048158615a7d1}
+      \strng{fullhash}{923574420adddf7103e048158615a7d1}
+      \strng{fullhashraw}{923574420adddf7103e048158615a7d1}
+      \strng{bibnamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authorbibnamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authornamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authorfullhash}{923574420adddf7103e048158615a7d1}
+      \strng{authorfullhashraw}{923574420adddf7103e048158615a7d1}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{langid}{american}
+      \field{month}{1}
+      \field{title}{The {{History}} of {{Live Sound}} --- {{Part}} 1}
+      \field{type}{HARMAN Professional Solutions Insights}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/C9TD4JQU/the-history-of-live-sound-part-1.html
+      \endverb
+      \verb{urlraw}
+      \verb pro.harman.com/insights/av/the-history-of-live-sound-part-1/
+      \endverb
+      \verb{url}
+      \verb pro.harman.com/insights/av/the-history-of-live-sound-part-1/
+      \endverb
+    \endentry
+    \entry{coulesHistoryLiveSound2021a}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=923574420adddf7103e048158615a7d1}{%
+           family={Coules},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {HARMAN Professional Solutions Insights}%
+      }
+      \strng{namehash}{923574420adddf7103e048158615a7d1}
+      \strng{fullhash}{923574420adddf7103e048158615a7d1}
+      \strng{fullhashraw}{923574420adddf7103e048158615a7d1}
+      \strng{bibnamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authorbibnamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authornamehash}{923574420adddf7103e048158615a7d1}
+      \strng{authorfullhash}{923574420adddf7103e048158615a7d1}
+      \strng{authorfullhashraw}{923574420adddf7103e048158615a7d1}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In The History of Live Sound --- Part 1, we covered 90 years of advances in audio technology, from the invention of the microphone to the world's first}
+      \field{day}{7}
+      \field{langid}{american}
+      \field{month}{1}
+      \field{title}{The {{History}} of {{Live Sound}} --- {{Part}} 2}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/4HE38M85/the-history-of-live-sound-part-2.html
+      \endverb
+      \verb{urlraw}
+      \verb pro.harman.com/insights/av/the-history-of-live-sound-part-2/
+      \endverb
+      \verb{url}
+      \verb pro.harman.com/insights/av/the-history-of-live-sound-part-2/
+      \endverb
+    \endentry
+    \entry{daleyWindingRoadModern2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0084497df15672ba864cf6b4a5db2906}{%
+           family={Daley},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Church Production Magazine}%
+      }
+      \strng{namehash}{0084497df15672ba864cf6b4a5db2906}
+      \strng{fullhash}{0084497df15672ba864cf6b4a5db2906}
+      \strng{fullhashraw}{0084497df15672ba864cf6b4a5db2906}
+      \strng{bibnamehash}{0084497df15672ba864cf6b4a5db2906}
+      \strng{authorbibnamehash}{0084497df15672ba864cf6b4a5db2906}
+      \strng{authornamehash}{0084497df15672ba864cf6b4a5db2906}
+      \strng{authorfullhash}{0084497df15672ba864cf6b4a5db2906}
+      \strng{authorfullhashraw}{0084497df15672ba864cf6b4a5db2906}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An AV industry veteran provides a glimpse into the wireless and wonderful future of the digital mixing console. Hint: the future may mean there is no need for a console at all.}
+      \field{day}{9}
+      \field{langid}{american}
+      \field{month}{3}
+      \field{title}{The {{Winding Road}} to the {{Modern Digital Mixing Console}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/5S3WY7IR/the-winding-road-to-the-modern-digital-mixing-console.html
+      \endverb
+      \verb{urlraw}
+      \verb www.churchproduction.com/api/content/00ed3d6e-6218-11ea-8096-1244d5f7c7c6/
+      \endverb
+      \verb{url}
+      \verb www.churchproduction.com/api/content/00ed3d6e-6218-11ea-8096-1244d5f7c7c6/
+      \endverb
+    \endentry
+    \entry{fletcherOnceTimeEvolution2014}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7fa19677c0cdb30ea26d5b7f090b941e}{%
+           family={Fletcher},
+           familyi={F\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {ProSoundWeb}%
+      }
+      \strng{namehash}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{fullhash}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{fullhashraw}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{bibnamehash}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{authorbibnamehash}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{authornamehash}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{authorfullhash}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \strng{authorfullhashraw}{7fa19677c0cdb30ea26d5b7f090b941e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An engineer's walk through the development of a game-changing sound reinforcement technology}
+      \field{day}{27}
+      \field{langid}{american}
+      \field{month}{2}
+      \field{title}{Once {{Upon A Time}}... {{The Evolution Of Digital Consoles}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/QWMQ6SCG/once-upon-a-time-the-evolution-of-digital-consoles.html
+      \endverb
+      \verb{urlraw}
+      \verb www.prosoundweb.com/once-upon-a-time-the-evolution-of-digital-consoles/
+      \endverb
+      \verb{url}
+      \verb www.prosoundweb.com/once-upon-a-time-the-evolution-of-digital-consoles/
+      \endverb
+    \endentry
+    \entry{gillmoreBriefHistoryTheatre2016}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6819751e4f2b14fed95d12db9566466b}{%
+           family={Gillmore},
+           familyi={G\bibinitperiod},
+           given={Kristy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {SoundGirls.org}%
+      }
+      \strng{namehash}{6819751e4f2b14fed95d12db9566466b}
+      \strng{fullhash}{6819751e4f2b14fed95d12db9566466b}
+      \strng{fullhashraw}{6819751e4f2b14fed95d12db9566466b}
+      \strng{bibnamehash}{6819751e4f2b14fed95d12db9566466b}
+      \strng{authorbibnamehash}{6819751e4f2b14fed95d12db9566466b}
+      \strng{authornamehash}{6819751e4f2b14fed95d12db9566466b}
+      \strng{authorfullhash}{6819751e4f2b14fed95d12db9566466b}
+      \strng{authorfullhashraw}{6819751e4f2b14fed95d12db9566466b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Brief History of Theatre Sound Consoles with Autograph Sound. A Big Thanks to Peppe Mallozzi for sharing his knowledge with SoundGirls}
+      \field{day}{22}
+      \field{langid}{american}
+      \field{month}{6}
+      \field{title}{A {{Brief History}} of {{Theatre Sound Consoles}} with {{Autograph Sound}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/CB9462LB/a-brief-history-of-theatre-sound-consoles-with-autograph-sound.html
+      \endverb
+      \verb{urlraw}
+      \verb soundgirls.org/a-brief-history-of-theatre-sound-consoles-with-autograph-sound/
+      \endverb
+      \verb{url}
+      \verb soundgirls.org/a-brief-history-of-theatre-sound-consoles-with-autograph-sound/
+      \endverb
+    \endentry
+    \entry{guitarcenterEvolutionRecordingMixing}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f35969ae3bf9bc6a310379d32567fe97}{%
+           family={{Guitar Center}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {GC Riffs}%
+      }
+      \strng{namehash}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{fullhash}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{fullhashraw}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{bibnamehash}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{authorbibnamehash}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{authornamehash}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{authorfullhash}{f35969ae3bf9bc6a310379d32567fe97}
+      \strng{authorfullhashraw}{f35969ae3bf9bc6a310379d32567fe97}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn about the history of recording consoles, from the earliest Western Electric and RCA desks in the 1930s to the latest DAW control surfaces.}
+      \field{langid}{english}
+      \field{title}{The {{Evolution}} of {{Recording}} and {{Mixing Consoles}} | {{GC Riffs}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/F2WHAP3C/evolution-recording-mixing-consoles.html
+      \endverb
+      \verb{urlraw}
+      \verb www.guitarcenter.com/riffs/gear-tips/recording/evolution-recording-mixing-consoles
+      \endverb
+      \verb{url}
+      \verb www.guitarcenter.com/riffs/gear-tips/recording/evolution-recording-mixing-consoles
+      \endverb
+    \endentry
+    \entry{smithWayWeWere2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f88033a063b0177ad7bcd2f1983efd7}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{fullhash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{fullhashraw}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{bibnamehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authorbibnamehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authornamehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authorfullhash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authorfullhashraw}{9f88033a063b0177ad7bcd2f1983efd7}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Production Sound \& Video}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{The {{Way We Were}}: {{Mixers Past}} \& {{Present}} ({{Part}} 1)}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{yeardivision}{summer}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{36\bibrangedash 38}
+      \range{pages}{3}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/DJI67LAZ/the-way-we-were-mixers-past-present-part-1.html
+      \endverb
+      \verb{urlraw}
+      \verb www.local695.com/magazine/the-way-we-were-mixers-past-present-part-1/
+      \endverb
+      \verb{url}
+      \verb www.local695.com/magazine/the-way-we-were-mixers-past-present-part-1/
+      \endverb
+    \endentry
+    \entry{smithWayWeWere2018a}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f88033a063b0177ad7bcd2f1983efd7}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Scott\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{fullhash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{fullhashraw}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{bibnamehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authorbibnamehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authornamehash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authorfullhash}{9f88033a063b0177ad7bcd2f1983efd7}
+      \strng{authorfullhashraw}{9f88033a063b0177ad7bcd2f1983efd7}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{Production Sound \& Video}
+      \field{number}{4}
+      \field{title}{The {{Way We Were}}: {{Mixers Past}} \& {{Present}} ({{Part}} 2)}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{yeardivision}{autumn}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{40\bibrangedash 42}
+      \range{pages}{3}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/RUWIKCHK/the-way-we-were-mixers-past-present-part-2.html
+      \endverb
+      \verb{urlraw}
+      \verb www.local695.com/magazine/the-way-we-were-mixers-past-present-part-2/
+      \endverb
+      \verb{url}
+      \verb www.local695.com/magazine/the-way-we-were-mixers-past-present-part-2/
+      \endverb
+    \endentry
+    \entry{sweetwaterLegendaryConsolesTheir2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb6f2105e42a4509b713f2d3b1001f77}{%
+           family={{Sweetwater}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {InSync}%
+      }
+      \strng{namehash}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{fullhash}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{fullhashraw}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{bibnamehash}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{authorbibnamehash}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{authornamehash}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{authorfullhash}{cb6f2105e42a4509b713f2d3b1001f77}
+      \strng{authorfullhashraw}{cb6f2105e42a4509b713f2d3b1001f77}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What do Muscle Shoals, Abbey Road, Sound City, and Ocean Way have in common? Check out four legendary analog boards that impacted the sound of modern music.}
+      \field{day}{1}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Legendary {{Consoles}} and {{Their Impact}} on {{Music History}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/ABVBVT3M/legendary-consoles-impact-music-history.html
+      \endverb
+      \verb{urlraw}
+      \verb www.sweetwater.com/insync/legendary-consoles-impact-music-history/
+      \endverb
+      \verb{url}
+      \verb www.sweetwater.com/insync/legendary-consoles-impact-music-history/
+      \endverb
+    \endentry
+    \entry{HistoryStudioConsole2023}{online}{}{}
+      \list{organization}{1}{%
+        {Vintage King Blog}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discover the fascinating journey of studio consoles from their humble beginnings to legendary brands like Neve, SSL, and API.}
+      \field{day}{2}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{The {{History Of The Studio Console}}, {{Part}} 1}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/X9Q8TP7M/history-of-consoles-part1.html
+      \endverb
+      \verb{urlraw}
+      \verb vintageking.com/blog/2023/11/history-of-consoles-part1
+      \endverb
+      \verb{url}
+      \verb vintageking.com/blog/2023/11/history-of-consoles-part1
+      \endverb
+    \endentry
+    \entry{HistoryStudioConsole2024}{online}{}{}
+      \list{organization}{1}{%
+        {Vintage King Blog}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Explore the rich history of studio consoles, from iconic analog gems to cutting-edge hybrids. Dive into the past, present, and future of audio.}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{The {{History Of The Studio Console}}, {{Part}} 2}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/XCNPTNG3/history-of-consoles-part2.html
+      \endverb
+      \verb{urlraw}
+      \verb vintageking.com/blog/2024/01/history-of-consoles-part2
+      \endverb
+      \verb{url}
+      \verb vintageking.com/blog/2024/01/history-of-consoles-part2
+      \endverb
+    \endentry
+    \entry{TheatricalAddressLoudspeakers}{online}{}{}
+      \list{organization}{2}{%
+        {Faster}%
+        {Wider}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{Theatrical {{Address}}: {{Loudspeakers}} for {{Theatre}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/BAEEPWC6/6684-theatre-speakers.html
+      \endverb
+      \verb{urlraw}
+      \verb www.fast-and-wide.com/more/wideangle/6684-theatre-speakers
+      \endverb
+      \verb{url}
+      \verb www.fast-and-wide.com/more/wideangle/6684-theatre-speakers
+      \endverb
+    \endentry
+    \entry{tsdcaHistoryScienceSound}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c603cb4d38613d571c5ef3a95364c7b5}{%
+           family={{TSDCA}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {TSDCA}%
+      }
+      \strng{namehash}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{fullhash}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{fullhashraw}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{bibnamehash}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{authorbibnamehash}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{authornamehash}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{authorfullhash}{c603cb4d38613d571c5ef3a95364c7b5}
+      \strng{authorfullhashraw}{c603cb4d38613d571c5ef3a95364c7b5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Theatrical Sound Designers and Composers Association}
+      \field{langid}{american}
+      \field{title}{The {{History}} and {{Science}} of {{Sound}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/8N4WDYMI/history.html
+      \endverb
+      \verb{urlraw}
+      \verb tsdca.org/history/
+      \endverb
+      \verb{url}
+      \verb tsdca.org/history/
+      \endverb
+    \endentry
+    \entry{YamahaDigitalMixer}{online}{}{}
+      \list{organization}{1}{%
+        {Yamaha.com}%
+      }
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Yamaha {{Digital Mixer History}}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/Owen/Zotero/storage/E74GSFSL/index.html
+      \endverb
+      \verb{urlraw}
+      \verb uk.yamaha.com/en/products/contents/proaudio/about/history/index.html
+      \endverb
+      \verb{url}
+      \verb uk.yamaha.com/en/products/contents/proaudio/about/history/index.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

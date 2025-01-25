@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}source 1 \blx@tocontentsinit {0}\autocite {bruceAndrewBruceMusical}}{3}{section.1}%
+\contentsline {section}{\numberline {2}source 2 \blx@tocontentsinit {0}\autocite {bruceTheatreSoundDigital}}{5}{section.2}%
+\contentsline {section}{\numberline {3}source 3 \blx@tocontentsinit {0}\autocite {coulesMixingEvolutionKey2020}}{9}{section.3}%
+\contentsline {section}{\numberline {4}Source 4 \blx@tocontentsinit {0}\cite {coulesHistoryLiveSound2021}}{12}{section.4}%
+\contentsline {section}{\numberline {5}Source 5 \blx@tocontentsinit {0}\cite {coulesHistoryLiveSound2021a}}{12}{section.5}%
+\contentsline {section}{\numberline {6}Source 6 \blx@tocontentsinit {0}\autocite {daleyWindingRoadModern2020}}{15}{section.6}%
+\contentsline {section}{\numberline {7}source 7 \blx@tocontentsinit {0}\autocite {fletcherOnceTimeEvolution2014}}{16}{section.7}%
+\contentsline {section}{\numberline {8}Source 8 \blx@tocontentsinit {0}\autocite {gillmoreBriefHistoryTheatre2016}}{16}{section.8}%
+\contentsline {section}{\numberline {9}source 9 \blx@tocontentsinit {0}\autocite {guitarcenterEvolutionRecordingMixing}}{17}{section.9}%
+\contentsline {section}{\numberline {10}source 10 \blx@tocontentsinit {0}\autocite {smithWayWeWere2018}}{19}{section.10}%
+\contentsline {section}{\numberline {11}source 11 \blx@tocontentsinit {0}\autocite {smithWayWeWere2018a}}{19}{section.11}%
+\contentsline {section}{\numberline {12}source 12 \blx@tocontentsinit {0}\autocite {sweetwaterLegendaryConsolesTheir2019}}{19}{section.12}%
+\contentsline {section}{\numberline {13}source 12 \blx@tocontentsinit {0}\autocite {HistoryStudioConsole2023}}{19}{section.13}%
+\contentsline {section}{\numberline {14}source 13 \blx@tocontentsinit {0}\autocite {TheatricalAddressLoudspeakers}}{21}{section.14}%

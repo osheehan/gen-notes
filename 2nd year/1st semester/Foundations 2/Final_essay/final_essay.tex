@@ -1,0 +1,70 @@
+\documentclass[12pt]{article}
+\usepackage[letterpaper, portrait, margin=1in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage[notes,backend=biber]{biblatex-chicago}
+\pagestyle{fancy}
+
+\addbibresource{final_essay.bib}    
+
+\fancyhf{} % sets both header and footer to nothing}
+\renewcommand{\headrulewidth}{0pt}
+\pagenumbering{arabic}
+\rhead{Sheehan \thepage} 
+
+\def\class{Foundations of Drama II}
+\def\prof{Dr. Amanda Olmstead}
+\def\due{12/16/24}
+\def\dg{DiGiCo}
+
+\fancypagestyle{1stPage}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt} % removes horizontal header line
+    \lhead{Owen M. Sheehan \\ \prof{} \\ \class{} \\ \due{}}
+    \rhead{ Sheehan 1}
+}
+
+\thispagestyle{1stPage}
+\begin{document}
+\begin{doublespace}
+\vspace*{20pt}
+\begin{center} \textbf{The Case for Digitization In Theatre Sound Consoles} \end{center}
+% #region Prehistory
+    \par The best place to start is the history of the sound console up to the 1970's, where the debate over whether digitization should be used in sound consoles started.
+    \par The best place to start is at the dawn of wireless telegraphy, which is where the first mixing consoles, generally with only one channel, microphones and loudspeakers originated from. Tha primary purpose of all this equipment was to amplify the spoken word.\autocite{coulesMixingEvolutionKey2020}
+    The First primary application for the sound equipment was found when the first synchronized sound movie ``The Jazz Singer''. Studios started leasing sound consoles from RCA and Western Electric as they didn't allow studios to outright own their equipment.\autocite{guitarcenterEvolutionRecordingMixing} We see this scheme with things such as Technicolor, where the company behind the process kept a tight hold on who could use their technology and how they used it.
+    With the end of World War II there was in influx of equipment from Germany and other European Countries, however, where the American Manufacturers forced you to lease the equipment, European manufacturers let you keep it outright.\autocite{guitarcenterEvolutionRecordingMixing}
+    \par While the factor leading the development of recording in movies was the proliferation of synchronized sound, the thing that would lead the development of live soind in the 1950s and 60s was the ``The Advent of Rock `n' Roll, the development of the electric guitar, and the need to perform in larger spaces pushed the development of the PA system \dots channel counts gradually increased and amplifiers got bigger''.\autocite{coulesMixingEvolutionKey2020}
+    \par Now to the music studios, while having being developed in 1928, magnetic tape had become the industry standard for recording audio by the 50s. With this came the development of stereo consoles like the REDD (Record Engineering Development Department) series of consoles at Abbey Road Studios (then called EMI Recording Studios).\autocite{HistoryStudioConsole2023}
+    After a few years, by the 1970s, the design of analog consoles had been solidified as a series of channel strips with sections for gain,How loud the signal is; EQ, short for equalization,which  changes to how loud specific parts of the audible spectrum are; sends, where the signal flows; the pan potentiometer, how much of the signal is goin to the left or right of the stereo pair; and a fader, which was the master volume for the signal.
+% #70s and 80s
+\par This leads us to the 1973 where a company called Autograph sound was founded by Andrew Bruce, we are going to focus on this company since a lot of their development on the West End mirrors Broadway and the industry as a whole.
+\par First it's important to understand why theatrical sound mixing is different from other forms of live sound reinforcement.
+To start with, theatrical mixing uses something called line-by-line mixing, which Bruce describes as, ``[line-by-line mixing] entails learning the full show script and managing mic levels and EQ for every player — as well as any sound effects — to ensure that only active mic channels are open and the remainder fully muted''\autocite{bruceAndrewBruceMusical}, continueing with, ``With potentially 35 people on stage, every one wearing an omnidirectional mic and all facing in different directions, with a PA that is only five metres away, albeit facing in a different direction, you cannot afford to leave any unused mics up at all. So you're not just following
+every line, you are killing stone dead every mic that is not literally in use at this point. Mics do not dip, they go completely mute, otherwise you have potentially 50 mic sources all contributing enormous amounts of audio contamination''.\autocite{bruceAndrewBruceMusical}
+\par When talking about the beginning of his company Bruce said in an interview with Fast and Wide, ``In 1973, there were no loudspeakers, mixers, radio mics or miniature mics that were made specifically for theatre use. And there were only three legal radio frequencies that we could use. We had to learn how to persuade manufacturers to see things our way, which was almost impossible to do because we had no money to commission anything --- manufacturers' first question is always, `how many will you order if we put time into this'\,''.\autocite{bruceTheatreSoundDigital}
+\par The first big step that Autograph sound took, was in 1976 when they worked with Abe Jacob, also know as ``the Godfather of Theatre Sound'', on \textit{A Chorus Line}. Jacob chose to mix on a Trident Fleximix which was ``an early and rudimentary modular mixer aimed at the live market. The main feature was a flexible footprint with different modules that could be bolted together for different numbers of channels and busses''.\autocite{bruceTheatreSoundDigital}
+Autograph Sound and Abe Jacob went on to work for a few shows together, and they continued using the Fleximix, until 1982 with Andrew-Lloyd Webber's \textit{Cats} which is notable for a few reasons. Firstly, the Broadway run of \textit{Cats}, which premiered a year after the West End, was the first show to radio mic all of it's actors; Secondly, for the West End Bruce and Jacob decided to switch to a Midas TR which is notable for being one the first consoles to be made for a theatre company with an output matrix\autocite{bruceTheatreSoundDigital}; And Thirdly, this show was also the debut of the Meyer UPA-1 Loudspeaker, which was a modified UM-1 with rigging points and a wider through and ``while Meyer Sound's UPA was not specifically a theatre design, it provided many of the features needed for musical theatre production. At the top of the list were sound quality, sound output and size. These needed to be excellent, high and small respectively''.\autocite{TheatricalAddressLoudspeakers}
+\par Another company of note for the development of consoles is Cadac, which was formed in 1968 with the goal of making superiour sounding consoles. They made many consoles for prestigiuos recording studios. In 1983, Cadac built a console for Autograph Sound and Sound Designer Martin Levan for the show \textit{Little Shop of Horrors}, with the goal that it should have studio quality audio as well as the restriction that it couldn't take up more than 4 seats. It took 4 weeks for Cadac to design, build and deliver the console.\autocite{CadacConsolesCadac}\autocite{bruceTheatreSoundDigital} After that the partnership between Cadac and Autograph Sound had been cemented.
+\par After the endeaver with \textit{Little Shop of Horrors}, it was clear that shows were becoming more complex and needed some kind of computer assistance so ``Clive Green [co-founder of Cadac] commissioned a chap called Derek Dearden, who was a professor of computing at London University, to build a rudimentary computer that could remember control group assignments. You could program a series of cues that brought the elements that you wanted to the central VCA section, so that the operator wasn't scooting up and down a huge console trying to find things in the dark. That was the beginning of a real sea change in the way mixing in the theatre developed --- the idea that things should come to you, and that required computer help''.\autocite{bruceTheatreSoundDigital}.
+\par Another thing that came out of the collaboration of the two companies was a line of consoles that ``embodied all the various things we had learned up to this stage --- modularity of frames, output matrix, balanced busing, all those things that were, by now, deemed totally indispensable. The simplest of these was the A-Type console, which was designed without any automation as that was still a bit experimental and added an unwelcome level of expense. We put the first one on Les Mis in 1985''.\autocite{bruceTheatreSoundDigital}
+This eventually led to the J-type and the E-type which both had computer automation, particularly VCA programming and programmable control groups.
+\par Inevitably, Producers wanted sound to take up less and less space, this led to Autograph helping with the development of a new digital console from Soundcraft: the Broadway in the early 1990s. They decided to test it on a straight play at the Prince Edward Theatre with a Cadac J-Type as a backup. Unfortunately, the Broadway never controlled any audio during the show due to a network bottleneck issue. Eventually the Soundcraft got it stable enough for it to go on tour with Celine Dion.\autocite{bruceTheatreSoundDigital}
+\par The next major development comes from a new company spawning, that being DiGiCo, a spinoff of Soundtracs, a producer of analog consoles for studio and live sound since the 1980s. The launched \dg{} in 2002 with a new console alongside, the D5 Live.\autocite{gillmoreBriefHistoryTheatre2016}
+\par After the D5 Live was launched, Andrew Bruce approached \dg{} and talked to the founder James Gordon about using the console for theatre. Gordon agreed to look into it and started off by taking his team to \textit{Chitty Chitty Bang Bang}, which had been using a J-Type at the time, and watched at the operator run 200 cues, with Bruce recalling, ``She was up and down the console following every line --- and they said, we had no idea you did all this, we always thought theatre was quite easy''\autocite{bruceAndrewBruceMusical}, the most rudimentary thing that needs to happen, other than the line-by-line described above, is ``[When actors get close dip] the least important mic, as long as the actors are close enough together. You will get some sort of balance that way, as long as you dip the mic on the person with the stronger voice. But that might only be for a few words, and then as they move away or turn away, you've got to be ready to bring the other mic back'', unfortunately you can't automate this as ``they may not turn away on the same word, so the operator has to be watching what they're doing and the balancing is absolutely manual''.\autocite{bruceAndrewBruceMusical}
+\par After 3 months of reasearch, \dg{} was ready to release their new product, the D5T, or a D5 with Theatre software on it. The software allowed the user to map channels where they wanted on the surface which had two benefits ``It simultaneously pulls groups of channels together under an operator's hands instead of leaving them spread across a massive console and allows the other channels to be `hidden', reducing the number of theatre seats that have to be sacrificed to accommodate it. In addition, storing channel settings allows what DiGiCo has termed Aliases (originally coined to reflect its relevance to the theatre) to be created to accommodate changes in EQ made necessary by the use of hats''. \autocite{bruceAndrewBruceMusical}.
+\par Another advantage to the T software was VCA automation which  ``allow[ed] for controlled and accurate line-by-line mixing \dots by pulling groups of channels into the central VCA section. Control of the channels is placed right under the operator's hands, saving them from to running up and down a long console riding faders for individual channels. \autocite{gillmoreBriefHistoryTheatre2016}
+\par Finally, the last major thing that the T software did was ``Recognise and provide for the fact that, if you include understudies, there are always four people playing the same principal part, and to store settings for every single one of those actors. And future players --- if the play runs for years and years, those actors will have been replaced by another four, only to have one of the original four return some years later because he's made it big in the world of TV and has come back to do a guest spot. And that's not just for actors, but for musicians as well \dots being able to store all the alias settings for an unlimited number of people and access them literally during the show without having to stop or call a halt in any way, makes DiGiCo a de facto standard for theatre. It took a while because it's a really complicated bit of programming, but they did just that''.
+\par The development of the D5T and the SD and Quantum lines that followed it, set the groundwork for what we expect in digital consoles in theatre today, along with the ability to quickly recall settings on the console and remote control through apps. Throughout the last 2 decades, manufacturers have slowly gotten on par with each other, with the likes of Yamaha's DM7 and Rivage line, Avid's Venue S6L, and \dg{} with their sd7t which has become somewhat of a standard alongside Yamaha's Rivage PM5 and PM10.
+\par That's the state that live sound is in right now, when it concerns the consoles we use, digital consoles have so many features that sound engineers want that since around 2016, it is rare for any new, big, professional show to use an analog board.
+\par While analog boards can still be found in music studios, the usability of Digital Consoles, has far outpaced them in the modern age.
+
+\newpage
+\nocite{*}
+\printbibliography
+\end{doublespace}
+\end{document}
