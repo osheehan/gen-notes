@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  25 JAN 2025 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  25 JAN 2025 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/Owen/Documents/GitHub/gen-notes/2nd year/2nd semester/PRM/Pre-productioin-analysis.tex"
-(/Users/Owen/Documents/GitHub/gen-notes/2nd year/2nd semester/PRM/Pre-productioin-analysis.tex
+**"/Users/Owen/Documents/GitHub/gen-notes/2nd year/2nd semester/PRM/Pre-production-analysis.tex"
+(/Users/Owen/Documents/GitHub/gen-notes/2nd year/2nd semester/PRM/Pre-production-analysis.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -224,8 +224,8 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box52
-) (./Pre-productioin-analysis.aux)
-\openout1 = `Pre-productioin-analysis.aux'.
+) (./Pre-production-analysis.aux)
+\openout1 = `Pre-production-analysis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -281,9 +281,9 @@ LaTeX Font Info:    ... okay on input line 29.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 29.
-(./Pre-productioin-analysis.out) (./Pre-productioin-analysis.out)
+(./Pre-production-analysis.out) (./Pre-production-analysis.out)
 \@outlinefile=\write3
-\openout3 = `Pre-productioin-analysis.out'.
+\openout3 = `Pre-production-analysis.out'.
 
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -375,24 +375,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4] (./Pre-productioin-analysis.aux)
+[4] (./Pre-production-analysis.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
-Package rerunfilecheck Info: File `Pre-productioin-analysis.out' has not changed.
+Package rerunfilecheck Info: File `Pre-production-analysis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  9551 strings out of 473330
- 147871 string characters out of 5719763
- 547428 words of memory out of 5000000
+ 147852 string characters out of 5719763
+ 547422 words of memory out of 5000000
  32558 multiletter control sequences out of 15000+600000
  582803 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,513b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,512b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Pre-productioin-analysis.pdf (4 pages, 46835 bytes).
+Output written on Pre-production-analysis.pdf (4 pages, 46835 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
